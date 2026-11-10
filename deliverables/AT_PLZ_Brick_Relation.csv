@@ -1,0 +1,2279 @@
+﻿PLZ;MACRO_ID;MACRO_NAME;STREG_ID;BL_ID;AREA_SHARE;IS_PLZ_FILE_BRICK;METHOD;VEEVA_ADDR_IN_BRICK;VEEVA_ADDR_TOTAL;CONFIDENCE
+1010;901;Wien 1 - Innere Stadt;9A;9;1,0;1;plz_file;330;330;HIGH_MAPPING
+1020;902;Wien 2 - Leopoldstadt;9B;9;1,0;1;plz_file;276;276;HIGH_MAPPING
+1030;903;Wien 3 - Landstrasse;9C;9;1,0;1;plz_file;486;486;HIGH_MAPPING
+1040;904;Wien 4 - Wieden;9D;9;1,0;1;plz_file;126;126;HIGH_MAPPING
+1050;905;Wien 5 - Margareten;9D;9;1,0;1;plz_file;130;130;HIGH_MAPPING
+1060;906;Wien 6 - Mariahilf;9A;9;1,0;1;plz_file;210;210;HIGH_MAPPING
+1070;907;Wien 7 - Neubau;9A;9;1,0;1;plz_file;144;144;HIGH_MAPPING
+1080;908;Wien 8 - Josefstadt;9A;9;1,0;1;plz_file;223;223;HIGH_MAPPING
+1090;909;Wien 9 - Alsergrund;9A;9;1,0;1;plz_file;1565;1565;HIGH_MAPPING
+1100;910;Wien 10 - Favoriten;9C;9;1,0;1;plz_file;358;358;HIGH_MAPPING
+1110;911;Wien 11 - Simmering;9B;9;1,0;1;plz_file;43;43;HIGH_MAPPING
+1120;912;Wien 12 - Meidling;9D;9;1,0;1;plz_file;84;84;HIGH_MAPPING
+1130;913;Wien 13 - Hietzing;9D;9;1,0;1;plz_file;546;546;HIGH_MAPPING
+1140;914;Wien 14 - Penzing;9E;9;1,0;1;plz_file;362;362;HIGH_MAPPING
+1150;915;Wien 15 - Rudolfsheim-Fünfhaus;9E;9;1,0;1;plz_file;58;58;HIGH_MAPPING
+1160;916;Wien 16 - Ottakring;9E;9;1,0;1;plz_file;376;376;HIGH_MAPPING
+1170;917;Wien 17 - Hernals;9F;9;1,0;1;plz_file;179;179;HIGH_MAPPING
+1180;918;Wien 18 - Währing;9F;9;1,0;1;plz_file;274;274;HIGH_MAPPING
+1190;919;Wien 19 - Döbling;9F;9;1,0;1;plz_file;411;412;HIGH_MAPPING
+1200;920;Wien 20 - Brigittenau;9B;9;1,0;1;plz_file;61;61;HIGH_MAPPING
+1210;921;Wien 21 - Floridsdorf;9G;9;1,0;1;plz_file;286;286;HIGH_MAPPING
+1220;922;Wien 22 - Donaustadt;9G;9;1,0;1;plz_file;308;308;HIGH_MAPPING
+1230;923;Wien 23 - Liesing;9H;9;1,0;1;plz_file;104;104;HIGH_MAPPING
+1300;321;Schwechat;3B;3;0,5237;1;iqvia_nanobrick_cut;8;8;MEDIUM_IQVIA_CUT
+1300;304;Bruck an der Leitha;3B;3;0,4763;0;iqvia_nanobrick_cut;0;8;MEDIUM_IQVIA_CUT
+2000;309;Korneuburg;3A;3;1,0;1;plz_file;71;71;HIGH_MAPPING
+2002;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2003;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2004;309;Korneuburg;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2011;309;Korneuburg;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2013;307;Hollabrunn;3A;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+2014;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2020;307;Hollabrunn;3A;3;1,0;1;plz_file;47;47;HIGH_MAPPING
+2022;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2023;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2024;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2031;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2032;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2033;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2034;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2041;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2042;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2051;307;Hollabrunn;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2052;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2053;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2054;307;Hollabrunn;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2061;307;Hollabrunn;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2062;307;Hollabrunn;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2063;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2064;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2070;307;Hollabrunn;3A;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+2073;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2074;307;Hollabrunn;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2081;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2082;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2083;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2084;308;Horn;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2091;308;Horn;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2092;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2093;308;Horn;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2094;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2095;308;Horn;3F;3;1,0;1;plz_file;1;1;HIGH_MAPPING
+2100;309;Korneuburg;3A;3;1,0;1;plz_file;43;43;HIGH_MAPPING
+2102;309;Korneuburg;3A;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+2103;309;Korneuburg;3A;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+2104;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2105;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2111;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2112;309;Korneuburg;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2113;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2114;309;Korneuburg;3A;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+2115;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2116;313;Mistelbach;3A;3;0,5409;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2116;309;Korneuburg;3A;3;0,4591;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2120;313;Mistelbach;3A;3;1,0;1;plz_file;10;10;HIGH_MAPPING
+2122;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2123;313;Mistelbach;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2124;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2125;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2126;313;Mistelbach;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2130;313;Mistelbach;3A;3;1,0;1;plz_file;146;146;HIGH_MAPPING
+2132;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2133;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2134;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2135;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2136;313;Mistelbach;3A;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+2141;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2143;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2144;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2145;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2151;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2152;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2153;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2154;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2161;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2162;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2163;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2164;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2165;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2170;313;Mistelbach;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2171;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2172;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2181;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2182;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2183;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2184;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2185;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2191;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2192;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2193;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2201;309;Korneuburg;3A;3;1,0;1;plz_file;9;9;HIGH_MAPPING
+2202;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2203;313;Mistelbach;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2211;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2212;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2213;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2214;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2215;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2221;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2222;305;Gänserndorf;3A;3;1,0;1;plz_file;15;15;HIGH_MAPPING
+2223;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2224;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2225;305;Gänserndorf;3A;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+2230;305;Gänserndorf;3A;3;1,0;1;plz_file;24;24;HIGH_MAPPING
+2231;305;Gänserndorf;3A;3;0,553;1;iqvia_nanobrick_cut;6;6;MEDIUM_IQVIA_CUT
+2231;313;Mistelbach;3A;3;0,447;0;iqvia_nanobrick_cut;0;6;MEDIUM_IQVIA_CUT
+2232;305;Gänserndorf;3A;3;1,0;1;plz_file;7;7;HIGH_MAPPING
+2241;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2242;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2243;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2244;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2245;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2251;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2252;305;Gänserndorf;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2253;305;Gänserndorf;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2261;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2262;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2263;305;Gänserndorf;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2264;305;Gänserndorf;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2265;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2272;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2273;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2274;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2275;313;Mistelbach;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2276;313;Mistelbach;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2280;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2281;305;Gänserndorf;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2282;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2283;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2284;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2285;305;Gänserndorf;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2286;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2291;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2292;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2293;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2294;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2295;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2301;305;Gänserndorf;3A;3;1,0;1;plz_file;10;10;HIGH_MAPPING
+2304;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2305;305;Gänserndorf;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2320;321;Schwechat;3B;3;1,0;1;plz_file;22;22;HIGH_MAPPING
+2322;321;Schwechat;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2325;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2326;321;Schwechat;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2331;314;Mödling;3B;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2332;314;Mödling;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2333;321;Schwechat;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2334;314;Mödling;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2340;314;Mödling;3B;3;1,0;1;plz_file;144;144;HIGH_MAPPING
+2344;314;Mödling;3B;3;1,0;1;plz_file;10;10;HIGH_MAPPING
+2345;314;Mödling;3B;3;1,0;1;plz_file;17;17;HIGH_MAPPING
+2351;314;Mödling;3B;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+2352;303;Baden;3C;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+2353;314;Mödling;3B;3;1,0;1;plz_file;15;15;HIGH_MAPPING
+2355;314;Mödling;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2361;314;Mödling;3B;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2362;314;Mödling;3B;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+2371;303;Baden;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2372;303;Baden;3C;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+2380;314;Mödling;3B;3;0,9534;1;iqvia_nanobrick_cut;37;38;MEDIUM_IQVIA_CUT
+2380;303;Baden;3C;3;0,0466;0;iqvia_nanobrick_cut;0;38;MEDIUM_IQVIA_CUT
+2381;303;Baden;3C;3;1,0;1;plz_file;11;11;HIGH_MAPPING
+2384;303;Baden;3C;3;1,0;1;plz_file;10;10;HIGH_MAPPING
+2391;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2392;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2393;303;Baden;3C;3;1,0;1;plz_file;1;1;HIGH_MAPPING
+2401;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+2402;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2403;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2404;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2405;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2410;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;34;34;HIGH_MAPPING
+2412;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2413;304;Bruck an der Leitha;3B;3;0,6165;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2413;106;Neusiedl am See;1A;1;0,3835;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2421;106;Neusiedl am See;1A;1;1,0;1;plz_file;43;43;HIGH_MAPPING
+2422;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+2423;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+2424;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+2425;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+2431;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2432;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2433;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2434;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2435;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2440;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+2441;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2442;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2443;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+2444;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2451;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2452;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2453;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2454;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2460;106;Neusiedl am See;1A;1;0,6797;0;iqvia_nanobrick_cut;2;28;MEDIUM_IQVIA_CUT
+2460;304;Bruck an der Leitha;3B;3;0,3203;1;iqvia_nanobrick_cut;26;28;MEDIUM_IQVIA_CUT
+2462;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2463;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2464;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2465;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2471;304;Bruck an der Leitha;3B;3;0,5528;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2471;106;Neusiedl am See;1A;1;0,4472;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2472;304;Bruck an der Leitha;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2473;106;Neusiedl am See;1A;1;0,566;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2473;304;Bruck an der Leitha;3B;3;0,434;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2474;106;Neusiedl am See;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+2475;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+2481;314;Mödling;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2482;314;Mödling;3B;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2483;303;Baden;3C;3;1,0;1;plz_file;7;7;HIGH_MAPPING
+2485;102;Eisenstadt-Land/Mattersburg;1A;1;0,5386;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2485;303;Baden;3C;3;0,4614;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2486;303;Baden;3C;3;1,0;1;plz_file;1;1;HIGH_MAPPING
+2490;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2491;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;4;HIGH_MAPPING
+2492;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2493;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2500;303;Baden;3C;3;1,0;1;plz_file;165;165;HIGH_MAPPING
+2504;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2511;303;Baden;3C;3;1,0;1;plz_file;3;3;HIGH_MAPPING
+2512;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2514;303;Baden;3C;3;1,0;1;plz_file;9;9;HIGH_MAPPING
+2521;303;Baden;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2522;303;Baden;3C;3;1,0;1;plz_file;3;3;HIGH_MAPPING
+2523;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2524;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2525;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2531;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2532;303;Baden;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2533;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2534;303;Baden;3C;3;1,0;1;plz_file;12;12;HIGH_MAPPING
+2540;303;Baden;3C;3;1,0;1;plz_file;13;13;HIGH_MAPPING
+2542;303;Baden;3C;3;1,0;1;plz_file;13;13;HIGH_MAPPING
+2544;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2551;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2552;303;Baden;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2560;303;Baden;3C;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+2561;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2563;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2564;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2565;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2571;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2572;311;Lilienfeld;3D;3;0,7558;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2572;303;Baden;3C;3;0,2442;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+2601;320;Wiener Neustadt;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2602;303;Baden;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2603;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2604;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2620;315;Neunkirchen;3C;3;1,0;1;plz_file;74;74;HIGH_MAPPING
+2624;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2625;315;Neunkirchen;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2630;315;Neunkirchen;3C;3;1,0;1;plz_file;10;10;HIGH_MAPPING
+2631;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2632;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2640;315;Neunkirchen;3C;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+2641;315;Neunkirchen;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2650;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2651;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2661;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2662;315;Neunkirchen;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2663;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2671;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2673;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2680;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2700;320;Wiener Neustadt;3C;3;1,0;1;plz_file;280;280;HIGH_MAPPING
+2721;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2722;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2723;320;Wiener Neustadt;3C;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+2724;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2731;315;Neunkirchen;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2732;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2733;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2734;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2751;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2752;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2753;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2754;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2755;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2761;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2763;320;Wiener Neustadt;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2770;320;Wiener Neustadt;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2801;320;Wiener Neustadt;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2802;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2803;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2811;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2812;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2813;320;Wiener Neustadt;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2820;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2821;320;Wiener Neustadt;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2822;320;Wiener Neustadt;3C;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+2823;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;6;HIGH_MAPPING
+2824;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2831;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2832;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2833;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2840;315;Neunkirchen;3C;3;1,0;1;plz_file;75;75;HIGH_MAPPING
+2842;315;Neunkirchen;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2851;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2852;320;Wiener Neustadt;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2853;320;Wiener Neustadt;3C;3;1,0;1;plz_file;7;7;HIGH_MAPPING
+2860;320;Wiener Neustadt;3C;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+2870;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2871;315;Neunkirchen;3C;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+2872;607;Hartberg-Fürstenfeld Nord;6E;6;0,5274;0;iqvia_nanobrick_cut;0;2;MEDIUM_IQVIA_CUT
+2872;315;Neunkirchen;3C;3;0,4726;1;iqvia_nanobrick_cut;2;2;MEDIUM_IQVIA_CUT
+2873;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+2880;315;Neunkirchen;3C;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+2881;315;Neunkirchen;3C;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3001;323;Tulln-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3002;323;Tulln-Land;3E;3;1,0;1;plz_file;13;13;HIGH_MAPPING
+3003;323;Tulln-Land;3E;3;1,0;1;plz_file;9;9;HIGH_MAPPING
+3004;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3011;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3012;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3013;323;Tulln-Land;3E;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+3021;323;Tulln-Land;3E;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+3031;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3032;316;St.Pölten-Land;3E;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+3033;316;St.Pölten-Land;3E;3;0,8745;1;iqvia_nanobrick_cut;2;10;MEDIUM_IQVIA_CUT
+3033;323;Tulln-Land;3E;3;0,0667;0;iqvia_nanobrick_cut;0;10;MEDIUM_IQVIA_CUT
+3033;303;Baden;3C;3;0,0588;0;iqvia_nanobrick_cut;8;10;MEDIUM_IQVIA_CUT
+3034;316;St.Pölten-Land;3E;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3040;316;St.Pölten-Land;3E;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3041;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3042;323;Tulln-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3051;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3052;316;St.Pölten-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3053;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3061;316;St.Pölten-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3062;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3071;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3072;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3073;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3074;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3100;301;St.Pölten-Stadt;3E;3;1,0;1;plz_file;369;370;HIGH_MAPPING
+3104;301;St.Pölten-Stadt;3E;3;0,6209;1;iqvia_nanobrick_cut;14;14;MEDIUM_IQVIA_CUT
+3104;316;St.Pölten-Land;3E;3;0,3791;0;iqvia_nanobrick_cut;0;14;MEDIUM_IQVIA_CUT
+3105;301;St.Pölten-Stadt;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3107;301;St.Pölten-Stadt;3E;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+3110;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3121;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3122;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3123;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3124;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3125;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3130;316;St.Pölten-Land;3E;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3131;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3133;316;St.Pölten-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3134;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3140;301;St.Pölten-Stadt;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3141;908;Wien 8 - Josefstadt;9A;9;1,0;1;plz_file;0;0;HIGH_MAPPING
+3142;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3143;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3144;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3150;316;St.Pölten-Land;3E;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3151;301;St.Pölten-Stadt;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3153;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3160;311;Lilienfeld;3D;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3161;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3162;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3163;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3170;311;Lilienfeld;3D;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3171;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3172;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3180;311;Lilienfeld;3D;3;1,0;1;plz_file;28;28;HIGH_MAPPING
+3183;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3184;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3192;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3193;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3195;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3200;316;St.Pölten-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3202;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3203;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3204;316;St.Pölten-Land;3E;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3205;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3211;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3212;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3213;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3214;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3221;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3222;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3223;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3224;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3231;311;Lilienfeld;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3232;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3233;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3240;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3241;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3242;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3243;312;Melk;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3244;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3250;317;Scheibbs;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3251;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3252;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3253;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3254;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3261;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3262;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3263;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3264;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3270;317;Scheibbs;3D;3;1,0;1;plz_file;42;42;HIGH_MAPPING
+3281;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3282;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3283;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3291;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3292;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3293;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3294;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3295;317;Scheibbs;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3300;302;Amstetten;3D;3;1,0;1;plz_file;119;119;HIGH_MAPPING
+3304;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3311;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3312;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3313;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3314;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3321;302;Amstetten;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3322;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3323;302;Amstetten;3D;3;1,0;1;plz_file;3;3;HIGH_MAPPING
+3324;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3325;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3331;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3332;302;Amstetten;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3333;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3334;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+3335;413;Steyr;4E;4;1,0;1;plz_file;7;7;HIGH_MAPPING
+3340;302;Amstetten;3D;3;1,0;1;plz_file;63;63;HIGH_MAPPING
+3341;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3342;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3343;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3344;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3345;317;Scheibbs;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3350;302;Amstetten;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3351;302;Amstetten;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3352;302;Amstetten;3D;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3353;302;Amstetten;3D;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3354;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3355;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3361;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3362;302;Amstetten;3D;3;1,0;1;plz_file;7;7;HIGH_MAPPING
+3363;302;Amstetten;3D;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3364;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3365;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3370;312;Melk;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3371;317;Scheibbs;3D;3;0,5714;0;iqvia_nanobrick_cut;0;3;MEDIUM_IQVIA_CUT
+3371;312;Melk;3F;3;0,4286;1;iqvia_nanobrick_cut;3;3;MEDIUM_IQVIA_CUT
+3372;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3373;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3374;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3375;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3376;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3380;312;Melk;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3381;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3382;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3383;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3384;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3385;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3386;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3388;316;St.Pölten-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3390;312;Melk;3F;3;1,0;1;plz_file;50;50;HIGH_MAPPING
+3392;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3393;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3394;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3400;323;Tulln-Land;3E;3;1,0;1;plz_file;75;75;HIGH_MAPPING
+3413;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3420;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3421;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3422;323;Tulln-Land;3E;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3423;323;Tulln-Land;3E;3;1,0;1;plz_file;8;8;HIGH_MAPPING
+3424;323;Tulln-Land;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3425;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3426;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3430;323;Tulln-Land;3E;3;1,0;1;plz_file;113;113;HIGH_MAPPING
+3433;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3434;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3435;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3441;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3442;323;Tulln-Land;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3443;323;Tulln-Land;3E;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3451;323;Tulln-Land;3E;3;1,0;1;plz_file;3;3;HIGH_MAPPING
+3452;318;Grafenwörth;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3454;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3462;318;Grafenwörth;3E;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3463;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3464;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3465;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3470;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3471;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3472;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3473;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3474;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3481;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3482;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3483;318;Grafenwörth;3E;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+3484;318;Grafenwörth;3E;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3485;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3491;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3492;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3493;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3494;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3495;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3500;310;Krems an der Donau;3F;3;1,0;1;plz_file;173;173;HIGH_MAPPING
+3506;310;Krems an der Donau;3F;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+3508;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3511;310;Krems an der Donau;3F;3;1,0;1;plz_file;9;9;HIGH_MAPPING
+3512;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3521;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3522;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3524;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3525;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3531;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3532;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3533;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3541;310;Krems an der Donau;3F;3;1,0;1;plz_file;3;3;HIGH_MAPPING
+3542;310;Krems an der Donau;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3543;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3544;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3550;310;Krems an der Donau;3F;3;1,0;1;plz_file;9;9;HIGH_MAPPING
+3552;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3553;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3561;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3562;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3564;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3571;308;Horn;3F;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+3572;310;Krems an der Donau;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3573;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3580;308;Horn;3F;3;1,0;1;plz_file;95;95;HIGH_MAPPING
+3591;308;Horn;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3592;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3593;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3594;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3595;308;Horn;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3601;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3602;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3610;310;Krems an der Donau;3F;3;1,0;1;plz_file;3;3;HIGH_MAPPING
+3611;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3613;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3620;310;Krems an der Donau;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3621;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3622;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3623;322;Zwettl;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3631;322;Zwettl;3F;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3632;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3633;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3641;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3642;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3643;310;Krems an der Donau;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3644;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3650;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3652;312;Melk;3F;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3653;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3654;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3660;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3661;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3662;312;Melk;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3663;312;Melk;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3664;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3665;322;Zwettl;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3671;312;Melk;3F;3;1,0;1;plz_file;1;1;HIGH_MAPPING
+3672;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3680;312;Melk;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3681;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3683;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3684;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3691;312;Melk;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3701;318;Grafenwörth;3E;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3702;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3704;309;Korneuburg;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3710;307;Hollabrunn;3A;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3711;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3712;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3713;308;Horn;3F;3;0,7108;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+3713;307;Hollabrunn;3A;3;0,2892;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+3714;307;Hollabrunn;3A;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3720;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3721;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3722;308;Horn;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3730;308;Horn;3F;3;1,0;1;plz_file;16;16;HIGH_MAPPING
+3741;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3742;307;Hollabrunn;3A;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3743;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3744;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3751;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3752;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3753;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3754;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3761;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3762;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3763;308;Horn;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3800;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3804;322;Zwettl;3F;3;1,0;1;plz_file;11;11;HIGH_MAPPING
+3811;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3812;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3813;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3814;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3820;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3822;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3823;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3824;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3830;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;35;35;HIGH_MAPPING
+3834;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3841;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3842;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3843;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3844;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3851;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3852;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3860;306;Gmünd;3F;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3861;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3862;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3863;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3871;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3872;306;Gmünd;3F;3;1,0;1;plz_file;4;4;HIGH_MAPPING
+3873;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3874;306;Gmünd;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3900;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3902;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3903;319;Waidhofen an der Thaya;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3910;322;Zwettl;3F;3;1,0;1;plz_file;55;55;HIGH_MAPPING
+3911;322;Zwettl;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3912;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3913;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3914;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3920;322;Zwettl;3F;3;1,0;1;plz_file;5;5;HIGH_MAPPING
+3921;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3922;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3923;322;Zwettl;3F;3;0,6932;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+3923;306;Gmünd;3F;3;0,3068;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+3924;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3925;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3931;322;Zwettl;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3932;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3942;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3943;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3944;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3945;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3950;306;Gmünd;3F;3;1,0;1;plz_file;33;33;HIGH_MAPPING
+3961;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3962;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3970;306;Gmünd;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3971;306;Gmünd;3F;3;1,0;1;plz_file;2;2;HIGH_MAPPING
+3972;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+3973;306;Gmünd;3F;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+4020;401;Linz-Stadt;4A;4;1,0;1;plz_file;789;789;HIGH_MAPPING
+4030;401;Linz-Stadt;4A;4;1,0;1;plz_file;15;15;HIGH_MAPPING
+4040;414;Urfahr-Umgebung;4B;4;0,5196;0;iqvia_nanobrick_cut;0;27;MEDIUM_IQVIA_CUT
+4040;401;Linz-Stadt;4A;4;0,4804;1;iqvia_nanobrick_cut;27;27;MEDIUM_IQVIA_CUT
+4048;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4050;408;Linz-Land;4A;4;1,0;1;plz_file;12;12;HIGH_MAPPING
+4052;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4053;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4055;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4060;408;Linz-Land;4A;4;1,0;1;plz_file;28;28;HIGH_MAPPING
+4061;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4062;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4063;408;Linz-Land;4A;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4064;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4070;403;Eferding;4C;4;1,0;1;plz_file;5;5;HIGH_MAPPING
+4072;403;Eferding;4C;4;1,0;1;plz_file;3;3;HIGH_MAPPING
+4073;408;Linz-Land;4A;4;1,0;1;plz_file;13;13;HIGH_MAPPING
+4074;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4075;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4076;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4081;403;Eferding;4C;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4082;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4083;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4084;406;Grieskirchen;4C;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4085;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4090;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4091;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4092;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4100;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4101;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4102;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4111;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4112;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4113;411;Rohrbach;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4114;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4115;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4116;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4120;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4121;411;Rohrbach;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4122;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4131;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4132;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4133;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4134;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4141;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4142;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4143;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4144;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4150;411;Rohrbach;4B;4;1,0;1;plz_file;40;40;HIGH_MAPPING
+4151;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4152;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4153;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4154;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4155;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4160;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4161;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4162;411;Rohrbach;4B;4;1,0;1;plz_file;3;3;HIGH_MAPPING
+4163;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4164;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4170;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4171;411;Rohrbach;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4172;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4173;411;Rohrbach;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4174;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4175;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4180;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4181;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4182;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4183;414;Urfahr-Umgebung;4B;4;0,6005;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+4183;411;Rohrbach;4B;4;0,3995;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+4184;411;Rohrbach;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4190;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;9;9;HIGH_MAPPING
+4191;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4192;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4193;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4201;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4202;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4203;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4204;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4209;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4210;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;15;15;HIGH_MAPPING
+4211;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;7;7;HIGH_MAPPING
+4212;404;Freistadt;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4213;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4221;414;Urfahr-Umgebung;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4222;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4223;409;Perg;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4224;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4225;409;Perg;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4230;404;Freistadt;4B;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4232;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4240;404;Freistadt;4B;4;1,0;1;plz_file;44;44;HIGH_MAPPING
+4242;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4251;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4252;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4261;404;Freistadt;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4262;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4263;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4264;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4271;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4272;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4273;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4274;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4280;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4281;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4282;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4283;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4284;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4291;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4292;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4293;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4294;404;Freistadt;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4300;302;Amstetten;3D;3;1,0;1;plz_file;6;6;HIGH_MAPPING
+4303;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+4310;409;Perg;4B;4;1,0;1;plz_file;3;3;HIGH_MAPPING
+4311;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4312;409;Perg;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4320;409;Perg;4B;4;1,0;1;plz_file;12;12;HIGH_MAPPING
+4322;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4323;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4324;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4331;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4332;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4341;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4342;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4343;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4351;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4352;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4360;409;Perg;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4362;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4363;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4364;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4371;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4372;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4381;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4382;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4391;409;Perg;4B;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4392;409;Perg;4B;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4400;413;Steyr;4E;4;1,0;1;plz_file;177;177;HIGH_MAPPING
+4407;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4421;413;Steyr;4E;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4431;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+4432;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+4441;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+4442;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4443;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4451;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4452;413;Steyr;4E;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4453;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4460;413;Steyr;4E;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4461;413;Steyr;4E;4;1,0;1;plz_file;3;3;HIGH_MAPPING
+4462;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4463;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4464;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4470;408;Linz-Land;4A;4;1,0;1;plz_file;23;23;HIGH_MAPPING
+4481;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4482;302;Amstetten;3D;3;1,0;1;plz_file;0;0;HIGH_MAPPING
+4483;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4484;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4490;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4491;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4492;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4493;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4501;408;Linz-Land;4A;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4502;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4511;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4521;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4522;413;Steyr;4E;4;1,0;1;plz_file;25;25;HIGH_MAPPING
+4523;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4531;408;Linz-Land;4A;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4532;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4533;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4540;413;Steyr;4E;4;1,0;1;plz_file;17;17;HIGH_MAPPING
+4541;413;Steyr;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4542;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4550;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4551;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4552;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4553;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4554;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4560;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;39;39;HIGH_MAPPING
+4562;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4563;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;6;6;HIGH_MAPPING
+4564;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4565;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4571;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4572;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4573;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4574;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4575;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4580;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;3;3;HIGH_MAPPING
+4581;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4582;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4591;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4592;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4593;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4594;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4595;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4596;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4600;416;Wels;4C;4;1,0;1;plz_file;249;249;HIGH_MAPPING
+4611;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4612;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4613;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4614;416;Wels;4C;4;1,0;1;plz_file;6;6;HIGH_MAPPING
+4615;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4616;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4621;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4622;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4623;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4624;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4625;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4631;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4632;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4633;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4641;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4642;416;Wels;4C;4;1,0;1;plz_file;6;6;HIGH_MAPPING
+4643;407;Kirchdorf an der Krems;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4644;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4645;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4650;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4651;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4652;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4653;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4654;416;Wels;4C;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4655;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4656;405;Gmunden;4E;4;1,0;1;plz_file;5;5;HIGH_MAPPING
+4661;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4662;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4663;405;Gmunden;4E;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4664;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4671;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4672;416;Wels;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4673;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4674;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4675;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4676;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4680;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4681;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4682;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4690;415;Vöcklabruck;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4691;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4692;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4693;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4694;405;Gmunden;4E;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4701;406;Grieskirchen;4C;4;1,0;1;plz_file;13;13;HIGH_MAPPING
+4702;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4707;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4710;406;Grieskirchen;4C;4;1,0;1;plz_file;36;36;HIGH_MAPPING
+4712;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4713;406;Grieskirchen;4C;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4714;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4715;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4716;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4720;406;Grieskirchen;4C;4;1,0;1;plz_file;5;5;HIGH_MAPPING
+4721;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4722;406;Grieskirchen;4C;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4723;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4724;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4725;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4730;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4731;403;Eferding;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4732;406;Grieskirchen;4C;4;0,7096;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+4732;403;Eferding;4C;4;0,2904;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+4733;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4741;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4742;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4743;406;Grieskirchen;4C;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4751;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4752;412;Schärding;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4753;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4754;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4755;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4760;412;Schärding;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4761;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4762;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4770;412;Schärding;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4771;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4772;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4773;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4774;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4775;412;Schärding;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4776;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4777;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4780;412;Schärding;4D;4;1,0;1;plz_file;57;57;HIGH_MAPPING
+4782;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4783;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4784;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4785;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4786;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4791;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4792;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4793;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4794;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4800;415;Vöcklabruck;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4801;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4802;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4810;405;Gmunden;4E;4;1,0;1;plz_file;57;57;HIGH_MAPPING
+4812;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4813;405;Gmunden;4E;4;1,0;1;plz_file;18;18;HIGH_MAPPING
+4814;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4816;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4817;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4820;405;Gmunden;4E;4;1,0;1;plz_file;88;88;HIGH_MAPPING
+4821;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4822;405;Gmunden;4E;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4823;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4824;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4825;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4830;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4831;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4840;415;Vöcklabruck;4D;4;1,0;1;plz_file;151;151;HIGH_MAPPING
+4841;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4842;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4843;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4844;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4845;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4846;415;Vöcklabruck;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4849;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4850;415;Vöcklabruck;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4851;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4852;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4853;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4854;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4860;415;Vöcklabruck;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4861;415;Vöcklabruck;4D;4;1,0;1;plz_file;12;12;HIGH_MAPPING
+4863;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4864;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4865;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4866;415;Vöcklabruck;4D;4;0,6335;1;iqvia_nanobrick_cut;2;2;MEDIUM_IQVIA_CUT
+4866;503;Salzburg-Land;5A;5;0,3665;0;iqvia_nanobrick_cut;0;2;MEDIUM_IQVIA_CUT
+4870;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4871;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4872;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4873;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4880;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4881;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4882;415;Vöcklabruck;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4890;415;Vöcklabruck;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4891;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4892;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4893;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4894;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4901;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4902;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4903;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4904;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4906;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4910;410;Ried im Innkreis;4D;4;1,0;1;plz_file;110;110;HIGH_MAPPING
+4911;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4912;410;Ried im Innkreis;4D;4;1,0;1;plz_file;4;4;HIGH_MAPPING
+4920;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4921;410;Ried im Innkreis;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4922;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4923;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4924;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4925;410;Ried im Innkreis;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4926;410;Ried im Innkreis;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4931;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4932;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4933;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4941;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4942;410;Ried im Innkreis;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4943;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4950;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4951;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4952;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4961;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4962;402;Braunau am Inn;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4963;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4970;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4971;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4972;410;Ried im Innkreis;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+4973;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4974;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4975;412;Schärding;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4980;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4981;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4982;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4983;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+4984;410;Ried im Innkreis;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5020;501;Salzburg-Stadt;5A;5;1,0;1;plz_file;636;637;HIGH_MAPPING
+5023;503;Salzburg-Land;5A;5;0,6486;1;iqvia_nanobrick_cut;0;2;MEDIUM_IQVIA_CUT
+5023;501;Salzburg-Stadt;5A;5;0,3514;0;iqvia_nanobrick_cut;2;2;MEDIUM_IQVIA_CUT
+5026;501;Salzburg-Stadt;5A;5;1,0;1;plz_file;25;25;HIGH_MAPPING
+5061;503;Salzburg-Land;5A;5;1,0;1;plz_file;6;6;HIGH_MAPPING
+5071;501;Salzburg-Stadt;5A;5;1,0;1;plz_file;0;12;HIGH_MAPPING
+5081;503;Salzburg-Land;5A;5;1,0;1;plz_file;7;7;HIGH_MAPPING
+5082;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5083;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5084;503;Salzburg-Land;5A;5;1,0;1;plz_file;16;16;HIGH_MAPPING
+5090;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5091;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5092;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5093;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5101;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5102;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5110;503;Salzburg-Land;5A;5;1,0;1;plz_file;44;44;HIGH_MAPPING
+5111;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5112;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5113;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5114;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5120;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5121;402;Braunau am Inn;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+5122;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5123;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5124;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5131;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5132;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5133;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5134;402;Braunau am Inn;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+5141;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5142;402;Braunau am Inn;4D;4;1,0;1;plz_file;1;1;HIGH_MAPPING
+5143;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5144;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5145;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5151;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5152;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5161;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5162;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5163;503;Salzburg-Land;5A;5;0,6813;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+5163;402;Braunau am Inn;4D;4;0,3187;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+5164;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5165;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5166;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5201;503;Salzburg-Land;5A;5;1,0;1;plz_file;5;5;HIGH_MAPPING
+5202;503;Salzburg-Land;5A;5;1,0;1;plz_file;11;11;HIGH_MAPPING
+5203;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5204;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5205;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5211;402;Braunau am Inn;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+5212;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5221;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5222;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5223;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5224;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5225;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5230;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5231;402;Braunau am Inn;4D;4;1,0;1;plz_file;2;2;HIGH_MAPPING
+5232;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5233;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5241;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5242;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5251;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5252;402;Braunau am Inn;4D;4;1,0;1;plz_file;3;3;HIGH_MAPPING
+5261;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5270;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5271;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5272;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5273;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5274;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5280;402;Braunau am Inn;4D;4;1,0;1;plz_file;91;91;HIGH_MAPPING
+5282;402;Braunau am Inn;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5300;503;Salzburg-Land;5A;5;1,0;1;plz_file;4;4;HIGH_MAPPING
+5301;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5302;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5303;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5310;415;Vöcklabruck;4D;4;1,0;1;plz_file;10;10;HIGH_MAPPING
+5311;415;Vöcklabruck;4D;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5321;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5322;503;Salzburg-Land;5A;5;1,0;1;plz_file;3;3;HIGH_MAPPING
+5323;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5324;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5325;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5330;503;Salzburg-Land;5A;5;1,0;1;plz_file;1;1;HIGH_MAPPING
+5340;503;Salzburg-Land;5A;5;1,0;1;plz_file;4;4;HIGH_MAPPING
+5342;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5350;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5360;405;Gmunden;4E;4;1,0;1;plz_file;0;0;HIGH_MAPPING
+5400;502;Hallein;5A;5;1,0;1;plz_file;47;47;HIGH_MAPPING
+5411;502;Hallein;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5412;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5421;502;Hallein;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5422;502;Hallein;5A;5;1,0;1;plz_file;11;11;HIGH_MAPPING
+5423;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5424;502;Hallein;5A;5;1,0;1;plz_file;6;6;HIGH_MAPPING
+5425;502;Hallein;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5431;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5440;503;Salzburg-Land;5A;5;1,0;1;plz_file;4;4;HIGH_MAPPING
+5441;503;Salzburg-Land;5A;5;1,0;1;plz_file;4;4;HIGH_MAPPING
+5442;503;Salzburg-Land;5A;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5450;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5451;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5452;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5453;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5500;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;4;4;HIGH_MAPPING
+5505;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5511;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5521;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5522;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5523;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5524;503;Salzburg-Land;5A;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5531;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5532;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5541;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;8;8;HIGH_MAPPING
+5542;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5550;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;7;7;HIGH_MAPPING
+5552;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5561;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5562;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5563;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5570;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5571;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5572;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5573;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5574;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5575;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5580;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;28;28;HIGH_MAPPING
+5581;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5582;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5583;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5584;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5585;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5591;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5592;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5600;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;13;13;HIGH_MAPPING
+5602;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5603;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5611;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5612;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5620;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;79;79;HIGH_MAPPING
+5621;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;35;35;HIGH_MAPPING
+5622;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5630;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;6;6;HIGH_MAPPING
+5632;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5640;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5645;504;St. Johann im Pongau/Tamsweg;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5651;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5652;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5660;506;Zell am See;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5661;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5662;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5671;506;Zell am See;5B;5;1,0;1;plz_file;4;4;HIGH_MAPPING
+5672;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5700;506;Zell am See;5B;5;1,0;1;plz_file;52;52;HIGH_MAPPING
+5710;506;Zell am See;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5721;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5722;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5723;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5724;506;Zell am See;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5730;506;Zell am See;5B;5;1,0;1;plz_file;14;14;HIGH_MAPPING
+5731;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5733;506;Zell am See;5B;5;1,0;1;plz_file;5;5;HIGH_MAPPING
+5741;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5742;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5743;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5751;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5752;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5753;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5754;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+5760;506;Zell am See;5B;5;1,0;1;plz_file;26;26;HIGH_MAPPING
+5761;506;Zell am See;5B;5;1,0;1;plz_file;2;2;HIGH_MAPPING
+5771;506;Zell am See;5B;5;1,0;1;plz_file;0;0;HIGH_MAPPING
+6020;701;Innsbruck-Stadt;7B;7;1,0;1;plz_file;855;855;HIGH_MAPPING
+6060;703;Innsbruck-Land;7B;7;1,0;1;plz_file;114;114;HIGH_MAPPING
+6063;703;Innsbruck-Land;7B;7;1,0;1;plz_file;20;20;HIGH_MAPPING
+6065;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6067;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6068;703;Innsbruck-Land;7B;7;1,0;1;plz_file;7;7;HIGH_MAPPING
+6069;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6070;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6071;703;Innsbruck-Land;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6072;703;Innsbruck-Land;7B;7;1,0;1;plz_file;1;1;HIGH_MAPPING
+6073;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6074;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6075;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6080;701;Innsbruck-Stadt;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6082;703;Innsbruck-Land;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6083;703;Innsbruck-Land;7B;7;1,0;1;plz_file;6;6;HIGH_MAPPING
+6091;703;Innsbruck-Land;7B;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6092;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6094;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6095;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6100;703;Innsbruck-Land;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6103;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6105;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6108;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6111;703;Innsbruck-Land;7B;7;1,0;1;plz_file;6;6;HIGH_MAPPING
+6112;703;Innsbruck-Land;7B;7;1,0;1;plz_file;10;10;HIGH_MAPPING
+6113;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6114;703;Innsbruck-Land;7B;7;1,0;1;plz_file;5;5;HIGH_MAPPING
+6115;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6116;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6121;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6122;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6123;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6130;709;Schwaz;7A;7;1,0;1;plz_file;91;91;HIGH_MAPPING
+6133;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6134;709;Schwaz;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6135;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6136;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6141;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6142;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6143;703;Innsbruck-Land;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6145;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6150;703;Innsbruck-Land;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6152;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6154;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6156;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6157;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6161;703;Innsbruck-Land;7B;7;1,0;1;plz_file;46;46;HIGH_MAPPING
+6162;703;Innsbruck-Land;7B;7;1,0;1;plz_file;3;3;HIGH_MAPPING
+6165;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6166;703;Innsbruck-Land;7B;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6167;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6170;703;Innsbruck-Land;7B;7;1,0;1;plz_file;57;57;HIGH_MAPPING
+6173;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6175;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6176;703;Innsbruck-Land;7B;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6178;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6179;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6181;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6182;703;Innsbruck-Land;7B;7;0,6654;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+6182;702;Imst;7B;7;0,3346;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+6183;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6184;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6200;709;Schwaz;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6210;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6212;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6213;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6215;709;Schwaz;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6220;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6222;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6230;705;Kufstein;7A;7;1,0;1;plz_file;7;7;HIGH_MAPPING
+6232;705;Kufstein;7A;7;1,0;1;plz_file;23;23;HIGH_MAPPING
+6233;705;Kufstein;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6234;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6235;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6236;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6240;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6241;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6250;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6252;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6260;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6261;709;Schwaz;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6262;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6263;709;Schwaz;7A;7;1,0;1;plz_file;1;1;HIGH_MAPPING
+6264;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6265;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6271;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6272;709;Schwaz;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6273;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6274;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6275;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6276;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6277;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6278;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6280;709;Schwaz;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6281;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6283;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6284;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6290;709;Schwaz;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6292;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6293;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6294;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6295;709;Schwaz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6300;705;Kufstein;7A;7;1,0;1;plz_file;15;15;HIGH_MAPPING
+6305;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6306;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6311;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6313;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6314;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6320;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6321;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6322;705;Kufstein;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6323;705;Kufstein;7A;7;1,0;1;plz_file;5;5;HIGH_MAPPING
+6324;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6330;705;Kufstein;7A;7;1,0;1;plz_file;86;86;HIGH_MAPPING
+6334;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6335;705;Kufstein;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6336;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6341;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6342;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6343;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6344;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6345;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6346;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6347;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6351;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6352;705;Kufstein;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6353;704;Kitzbühel;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6361;704;Kitzbühel;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6363;704;Kitzbühel;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+6364;704;Kitzbühel;7A;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6365;704;Kitzbühel;7A;7;1,0;1;plz_file;6;6;HIGH_MAPPING
+6370;704;Kitzbühel;7A;7;1,0;1;plz_file;24;24;HIGH_MAPPING
+6371;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6372;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6373;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6380;704;Kitzbühel;7A;7;1,0;1;plz_file;63;63;HIGH_MAPPING
+6382;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6383;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6384;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6385;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6391;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6392;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6393;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6395;704;Kitzbühel;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6401;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6402;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6403;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6404;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6405;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6406;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6408;703;Innsbruck-Land;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6410;703;Innsbruck-Land;7B;7;1,0;1;plz_file;21;21;HIGH_MAPPING
+6413;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6414;702;Imst;7B;7;1,0;1;plz_file;6;6;HIGH_MAPPING
+6416;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6421;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6422;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6423;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6424;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6425;702;Imst;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6426;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6430;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6432;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6433;702;Imst;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6441;702;Imst;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6444;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6450;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6456;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6458;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6460;702;Imst;7B;7;1,0;1;plz_file;14;14;HIGH_MAPPING
+6462;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6463;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6464;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6465;702;Imst;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6471;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6473;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6474;702;Imst;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6481;702;Imst;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6491;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6492;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6493;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6500;706;Landeck;7B;7;1,0;1;plz_file;6;6;HIGH_MAPPING
+6511;706;Landeck;7B;7;1,0;1;plz_file;70;70;HIGH_MAPPING
+6521;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6522;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6524;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6525;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6526;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6527;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6528;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6531;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6532;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6533;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6534;706;Landeck;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6541;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6542;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6543;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6544;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6551;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6552;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6553;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6555;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6561;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6562;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6563;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6571;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6572;706;Landeck;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6574;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6580;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6591;706;Landeck;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6600;708;Reutte;7B;7;1,0;1;plz_file;41;41;HIGH_MAPPING
+6604;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6610;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6611;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6621;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6622;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6623;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6631;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6632;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6633;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6642;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6644;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6645;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6646;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6647;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6650;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6651;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6652;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6653;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6654;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6655;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6670;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6671;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6672;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6673;708;Reutte;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6675;708;Reutte;7B;7;1,0;1;plz_file;2;2;HIGH_MAPPING
+6677;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6682;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6691;708;Reutte;7B;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+6700;802;Bludenz;8A;8;1,0;1;plz_file;60;60;HIGH_MAPPING
+6706;802;Bludenz;8A;8;1,0;1;plz_file;6;6;HIGH_MAPPING
+6707;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6708;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6710;802;Bludenz;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6712;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6713;802;Bludenz;8A;8;1,0;1;plz_file;4;4;HIGH_MAPPING
+6714;802;Bludenz;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6719;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6721;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6722;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6723;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6731;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6733;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6741;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6751;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6752;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6754;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6762;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6763;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6764;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6767;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6771;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6773;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6774;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6780;802;Bludenz;8A;8;1,0;1;plz_file;11;11;HIGH_MAPPING
+6781;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6782;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6787;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6791;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6793;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6794;802;Bludenz;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6800;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;212;212;HIGH_MAPPING
+6811;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6812;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6820;804;Dornbirn/Feldkirch;8A;8;0,6922;1;iqvia_nanobrick_cut;9;9;MEDIUM_IQVIA_CUT
+6820;802;Bludenz;8A;8;0,3078;0;iqvia_nanobrick_cut;0;9;MEDIUM_IQVIA_CUT
+6822;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6824;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6830;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;55;55;HIGH_MAPPING
+6832;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;6;6;HIGH_MAPPING
+6833;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6834;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6835;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6836;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6837;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6840;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;17;17;HIGH_MAPPING
+6841;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6842;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6844;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6845;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;69;69;HIGH_MAPPING
+6850;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;90;90;HIGH_MAPPING
+6858;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6861;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6863;803;Bregenz-Land;8A;8;1,0;1;plz_file;8;8;HIGH_MAPPING
+6866;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6867;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6870;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6874;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6881;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6882;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6883;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6884;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6886;803;Bregenz-Land;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6888;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6890;804;Dornbirn/Feldkirch;8A;8;1,0;1;plz_file;23;23;HIGH_MAPPING
+6900;801;Bregenz-Stadt;8A;8;1,0;1;plz_file;96;96;HIGH_MAPPING
+6911;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6912;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6914;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6921;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6922;803;Bregenz-Land;8A;8;1,0;1;plz_file;6;6;HIGH_MAPPING
+6923;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6932;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6933;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6934;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6941;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6942;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6943;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6951;803;Bregenz-Land;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6952;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6960;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6971;803;Bregenz-Land;8A;8;1,0;1;plz_file;6;6;HIGH_MAPPING
+6972;803;Bregenz-Land;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6973;803;Bregenz-Land;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6974;803;Bregenz-Land;8A;8;1,0;1;plz_file;2;2;HIGH_MAPPING
+6991;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6992;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+6993;803;Bregenz-Land;8A;8;1,0;1;plz_file;0;0;HIGH_MAPPING
+7000;101;Eisenstadt-Stadt;1A;1;1,0;1;plz_file;197;198;HIGH_MAPPING
+7011;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7012;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7013;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7020;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7021;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7022;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7023;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7024;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7025;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7031;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7032;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7033;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7034;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7035;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7041;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7042;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7051;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7052;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7053;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;4;4;HIGH_MAPPING
+7061;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7062;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7063;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7064;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7071;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;1;1;HIGH_MAPPING
+7072;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7081;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7082;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7083;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7091;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7092;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7093;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7100;106;Neusiedl am See;1A;1;1,0;1;plz_file;26;26;HIGH_MAPPING
+7111;106;Neusiedl am See;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7121;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7122;106;Neusiedl am See;1A;1;1,0;1;plz_file;5;5;HIGH_MAPPING
+7123;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7131;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7132;106;Neusiedl am See;1A;1;1,0;1;plz_file;8;8;HIGH_MAPPING
+7141;106;Neusiedl am See;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7142;106;Neusiedl am See;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7143;106;Neusiedl am See;1A;1;1,0;1;plz_file;1;1;HIGH_MAPPING
+7151;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7152;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7161;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7162;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7163;106;Neusiedl am See;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7201;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7202;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;9;9;HIGH_MAPPING
+7203;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;4;4;HIGH_MAPPING
+7210;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;11;11;HIGH_MAPPING
+7212;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7221;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7222;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7223;102;Eisenstadt-Land/Mattersburg;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7301;107;Oberpullendorf;1A;1;1,0;1;plz_file;5;5;HIGH_MAPPING
+7302;107;Oberpullendorf;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7304;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7311;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7312;107;Oberpullendorf;1A;1;1,0;1;plz_file;4;4;HIGH_MAPPING
+7321;107;Oberpullendorf;1A;1;1,0;1;plz_file;4;4;HIGH_MAPPING
+7322;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7323;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7331;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7332;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7341;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7342;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7343;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7344;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7350;107;Oberpullendorf;1A;1;1,0;1;plz_file;49;49;HIGH_MAPPING
+7361;107;Oberpullendorf;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7371;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7372;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7373;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7374;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7400;108;Oberwart;1A;1;1,0;1;plz_file;143;143;HIGH_MAPPING
+7410;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7411;108;Oberwart;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7412;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7420;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7421;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7422;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7423;108;Oberwart;1A;1;1,0;1;plz_file;5;5;HIGH_MAPPING
+7425;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7431;108;Oberwart;1A;1;1,0;1;plz_file;24;24;HIGH_MAPPING
+7432;108;Oberwart;1A;1;1,0;1;plz_file;7;7;HIGH_MAPPING
+7433;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7434;108;Oberwart;1A;1;1,0;1;plz_file;4;4;HIGH_MAPPING
+7435;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7441;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7442;107;Oberpullendorf;1A;1;1,0;1;plz_file;1;1;HIGH_MAPPING
+7443;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7444;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7451;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7452;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7453;107;Oberpullendorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7461;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7463;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7464;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7471;108;Oberwart;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7472;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7473;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7474;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7501;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7502;108;Oberwart;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7503;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7511;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7512;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7521;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7522;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7531;108;Oberwart;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7532;108;Oberwart;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7533;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7534;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7535;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7536;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7537;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7540;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;50;50;HIGH_MAPPING
+7542;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7543;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7544;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7545;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7546;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7550;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7551;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;6;6;HIGH_MAPPING
+7552;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7553;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7554;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7561;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7562;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7563;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7564;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+7571;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;2;2;HIGH_MAPPING
+7572;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;1;1;HIGH_MAPPING
+7574;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+8010;621;Graz-Stadt Zentrum;6A;6;1,0;1;plz_file;45;349;HIGH_MAPPING
+8020;622;Graz-Stadt Nord West;6A;6;0,6251;1;iqvia_nanobrick_cut;236;335;MEDIUM_IQVIA_CUT
+8020;625;Graz-Stadt Süd West;6B;6;0,3749;0;iqvia_nanobrick_cut;97;335;MEDIUM_IQVIA_CUT
+8036;623;Graz-Stadt Nord Ost;6A;6;1,0;1;plz_file;487;487;HIGH_MAPPING
+8041;624;Graz-Stadt Süd Ost;6B;6;1,0;1;plz_file;8;8;HIGH_MAPPING
+8042;624;Graz-Stadt Süd Ost;6B;6;1,0;1;plz_file;28;28;HIGH_MAPPING
+8043;623;Graz-Stadt Nord Ost;6A;6;1,0;1;plz_file;10;10;HIGH_MAPPING
+8044;623;Graz-Stadt Nord Ost;6A;6;0,5068;0;iqvia_nanobrick_cut;9;9;MEDIUM_IQVIA_CUT
+8044;606;Graz-Umgebung;6C;6;0,4932;1;iqvia_nanobrick_cut;0;9;MEDIUM_IQVIA_CUT
+8045;606;Graz-Umgebung;6C;6;0,647;0;iqvia_nanobrick_cut;0;26;MEDIUM_IQVIA_CUT
+8045;623;Graz-Stadt Nord Ost;6A;6;0,353;1;iqvia_nanobrick_cut;26;26;MEDIUM_IQVIA_CUT
+8046;606;Graz-Umgebung;6C;6;0,7663;0;iqvia_nanobrick_cut;2;4;MEDIUM_IQVIA_CUT
+8046;623;Graz-Stadt Nord Ost;6A;6;0,2337;1;iqvia_nanobrick_cut;2;4;MEDIUM_IQVIA_CUT
+8047;606;Graz-Umgebung;6C;6;0,6048;0;iqvia_nanobrick_cut;8;42;MEDIUM_IQVIA_CUT
+8047;623;Graz-Stadt Nord Ost;6A;6;0,3199;1;iqvia_nanobrick_cut;5;42;MEDIUM_IQVIA_CUT
+8047;624;Graz-Stadt Süd Ost;6B;6;0,0753;0;iqvia_nanobrick_cut;29;42;MEDIUM_IQVIA_CUT
+8051;622;Graz-Stadt Nord West;6A;6;0,5261;0;iqvia_nanobrick_cut;7;7;MEDIUM_IQVIA_CUT
+8051;606;Graz-Umgebung;6C;6;0,4739;1;iqvia_nanobrick_cut;0;7;MEDIUM_IQVIA_CUT
+8052;606;Graz-Umgebung;6C;6;0,5317;0;iqvia_nanobrick_cut;0;54;MEDIUM_IQVIA_CUT
+8052;625;Graz-Stadt Süd West;6B;6;0,2772;1;iqvia_nanobrick_cut;18;54;MEDIUM_IQVIA_CUT
+8052;622;Graz-Stadt Nord West;6A;6;0,1911;0;iqvia_nanobrick_cut;36;54;MEDIUM_IQVIA_CUT
+8053;625;Graz-Stadt Süd West;6B;6;1,0;1;plz_file;53;53;HIGH_MAPPING
+8054;606;Graz-Umgebung;6C;6;0,648;0;iqvia_nanobrick_cut;9;22;MEDIUM_IQVIA_CUT
+8054;625;Graz-Stadt Süd West;6B;6;0,352;1;iqvia_nanobrick_cut;13;22;MEDIUM_IQVIA_CUT
+8055;625;Graz-Stadt Süd West;6B;6;1,0;1;plz_file;11;11;HIGH_MAPPING
+8061;606;Graz-Umgebung;6C;6;1,0;1;plz_file;23;23;HIGH_MAPPING
+8062;606;Graz-Umgebung;6C;6;1,0;1;plz_file;7;7;HIGH_MAPPING
+8063;606;Graz-Umgebung;6C;6;1,0;1;plz_file;9;9;HIGH_MAPPING
+8071;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8072;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8073;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8074;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8075;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8076;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8077;606;Graz-Umgebung;6C;6;1,0;1;plz_file;4;4;HIGH_MAPPING
+8081;610;Leibnitz;6E;6;0,5211;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8081;604;Südoststeiermark;6E;6;0,4789;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8082;604;Südoststeiermark;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8083;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8091;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8092;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8093;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8101;606;Graz-Umgebung;6C;6;1,0;1;plz_file;7;7;HIGH_MAPPING
+8102;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8103;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8111;606;Graz-Umgebung;6C;6;1,0;1;plz_file;20;20;HIGH_MAPPING
+8112;606;Graz-Umgebung;6C;6;1,0;1;plz_file;36;36;HIGH_MAPPING
+8113;606;Graz-Umgebung;6C;6;1,0;1;plz_file;7;7;HIGH_MAPPING
+8114;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8120;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8121;606;Graz-Umgebung;6C;6;1,0;1;plz_file;10;10;HIGH_MAPPING
+8122;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8124;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8130;606;Graz-Umgebung;6C;6;1,0;1;plz_file;7;7;HIGH_MAPPING
+8131;602;Bruck-Mürzzuschlag West;6G;6;0,8128;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8131;606;Graz-Umgebung;6C;6;0,1872;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8132;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8141;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8142;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8143;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8144;606;Graz-Umgebung;6C;6;1,0;1;plz_file;12;12;HIGH_MAPPING
+8151;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8152;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8153;616;Voitsberg;6F;6;0,6409;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8153;606;Graz-Umgebung;6C;6;0,3591;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8160;617;Weiz;6G;6;1,0;1;plz_file;48;48;HIGH_MAPPING
+8162;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8163;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8164;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8171;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8172;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8181;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8182;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8183;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8184;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8190;617;Weiz;6G;6;1,0;1;plz_file;4;4;HIGH_MAPPING
+8191;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8192;617;Weiz;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8200;617;Weiz;6G;6;1,0;1;plz_file;30;30;HIGH_MAPPING
+8211;617;Weiz;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8212;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8213;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8221;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8222;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8223;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8224;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8225;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;4;4;HIGH_MAPPING
+8230;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;52;52;HIGH_MAPPING
+8232;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8233;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8234;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8240;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;6;6;HIGH_MAPPING
+8241;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8242;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8243;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8244;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8250;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;29;29;HIGH_MAPPING
+8251;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8252;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8253;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8254;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8255;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8261;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8262;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;5;5;HIGH_MAPPING
+8263;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8264;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8265;605;Hartberg-Fürstenfeld Süd;6E;6;0,5586;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8265;607;Hartberg-Fürstenfeld Nord;6E;6;0,4414;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8271;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8272;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8273;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8274;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8280;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;59;59;HIGH_MAPPING
+8282;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8283;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8291;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8292;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;4;4;HIGH_MAPPING
+8293;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8294;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8295;607;Hartberg-Fürstenfeld Nord;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8301;606;Graz-Umgebung;6C;6;1,0;1;plz_file;23;23;HIGH_MAPPING
+8302;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8311;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8312;604;Südoststeiermark;6E;6;0,5151;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8312;605;Hartberg-Fürstenfeld Süd;6E;6;0,4541;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8312;617;Weiz;6G;6;0,0308;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8313;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8321;617;Weiz;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8322;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8323;606;Graz-Umgebung;6C;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8324;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8330;604;Südoststeiermark;6E;6;1,0;1;plz_file;78;78;HIGH_MAPPING
+8332;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8333;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8334;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8341;604;Südoststeiermark;6E;6;1,0;1;plz_file;8;8;HIGH_MAPPING
+8342;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8343;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8344;604;Südoststeiermark;6E;6;1,0;1;plz_file;20;20;HIGH_MAPPING
+8345;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8350;604;Südoststeiermark;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8352;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8353;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8354;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8355;604;Südoststeiermark;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8361;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8362;605;Hartberg-Fürstenfeld Süd;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8380;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;3;3;HIGH_MAPPING
+8382;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+8383;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+8384;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+8385;103;Güssing/Jennersdorf;1A;1;1,0;1;plz_file;0;0;HIGH_MAPPING
+8401;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8402;606;Graz-Umgebung;6C;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8403;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8410;610;Leibnitz;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8411;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8412;610;Leibnitz;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8413;610;Leibnitz;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8421;610;Leibnitz;6E;6;0,5583;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8421;604;Südoststeiermark;6E;6;0,4417;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8422;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8423;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8424;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8430;610;Leibnitz;6E;6;1,0;1;plz_file;22;22;HIGH_MAPPING
+8431;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8434;610;Leibnitz;6E;6;1,0;1;plz_file;5;5;HIGH_MAPPING
+8435;610;Leibnitz;6E;6;1,0;1;plz_file;31;31;HIGH_MAPPING
+8441;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8442;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8443;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8444;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8451;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8452;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8453;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8454;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8455;610;Leibnitz;6E;6;0,6647;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8455;603;Deutschlandsberg;6F;6;0,3353;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8461;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8462;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8463;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8472;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8473;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8480;604;Südoststeiermark;6E;6;1,0;1;plz_file;5;5;HIGH_MAPPING
+8481;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8483;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8484;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8490;604;Südoststeiermark;6E;6;1,0;1;plz_file;25;25;HIGH_MAPPING
+8492;604;Südoststeiermark;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8493;604;Südoststeiermark;6E;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8501;606;Graz-Umgebung;6C;6;1,0;1;plz_file;9;9;HIGH_MAPPING
+8502;603;Deutschlandsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8503;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8504;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8505;610;Leibnitz;6E;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8510;603;Deutschlandsberg;6F;6;1,0;1;plz_file;11;11;HIGH_MAPPING
+8511;603;Deutschlandsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8521;603;Deutschlandsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8522;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8523;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8524;603;Deutschlandsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8530;603;Deutschlandsberg;6F;6;1,0;1;plz_file;38;38;HIGH_MAPPING
+8541;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8542;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8543;603;Deutschlandsberg;6F;6;1,0;1;plz_file;4;4;HIGH_MAPPING
+8544;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8551;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8552;603;Deutschlandsberg;6F;6;1,0;1;plz_file;5;5;HIGH_MAPPING
+8553;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8554;603;Deutschlandsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8561;616;Voitsberg;6F;6;1,0;1;plz_file;3;3;HIGH_MAPPING
+8562;616;Voitsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8563;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8564;616;Voitsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8570;616;Voitsberg;6F;6;1,0;1;plz_file;26;26;HIGH_MAPPING
+8572;616;Voitsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8573;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8580;616;Voitsberg;6F;6;1,0;1;plz_file;5;5;HIGH_MAPPING
+8582;616;Voitsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8583;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8584;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8591;616;Voitsberg;6F;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8592;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8593;616;Voitsberg;6F;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8600;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;99;99;HIGH_MAPPING
+8605;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;31;31;HIGH_MAPPING
+8611;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8612;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8614;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8616;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8621;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8622;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8623;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;7;7;HIGH_MAPPING
+8624;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8625;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8630;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;6;6;HIGH_MAPPING
+8632;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8634;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8635;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8636;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8641;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8642;602;Bruck-Mürzzuschlag West;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8643;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8644;602;Bruck-Mürzzuschlag West;6G;6;0,5148;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8644;613;Bruck-Mürzzuschlag Ost;6G;6;0,4852;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8650;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;8;8;HIGH_MAPPING
+8652;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8653;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8654;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8661;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8662;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8663;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8664;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8665;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8670;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8671;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8672;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8673;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8674;617;Weiz;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8680;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;40;40;HIGH_MAPPING
+8682;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8684;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;3;3;HIGH_MAPPING
+8685;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8691;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8692;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8693;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8694;613;Bruck-Mürzzuschlag Ost;6G;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8700;611;Leoben;6D;6;1,0;1;plz_file;135;135;HIGH_MAPPING
+8704;611;Leoben;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8712;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8713;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8714;611;Leoben;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8715;609;Murtal Ost;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8720;609;Murtal Ost;6D;6;1,0;1;plz_file;61;61;HIGH_MAPPING
+8723;609;Murtal Ost;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8724;609;Murtal Ost;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8731;609;Murtal Ost;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8732;609;Murtal Ost;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8733;609;Murtal Ost;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8734;609;Murtal Ost;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8740;608;Murtal West;6D;6;1,0;1;plz_file;5;5;HIGH_MAPPING
+8741;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8742;608;Murtal West;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8750;608;Murtal West;6D;6;1,0;1;plz_file;20;20;HIGH_MAPPING
+8753;608;Murtal West;6D;6;1,0;1;plz_file;4;4;HIGH_MAPPING
+8754;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8755;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8756;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8761;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8762;608;Murtal West;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8763;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8764;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8765;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8770;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8772;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8773;611;Leoben;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8774;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8775;611;Leoben;6D;6;1,0;1;plz_file;3;3;HIGH_MAPPING
+8781;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8782;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8783;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8784;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8785;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8786;612;Liezen;6D;6;1,0;1;plz_file;30;30;HIGH_MAPPING
+8790;611;Leoben;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8792;611;Leoben;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8793;611;Leoben;6D;6;1,0;1;plz_file;14;14;HIGH_MAPPING
+8794;611;Leoben;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8795;611;Leoben;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8800;608;Murtal West;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8811;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8812;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8813;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8820;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8822;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8831;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8832;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8833;614;Murau;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8841;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8842;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8843;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8844;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8850;614;Murau;6D;6;1,0;1;plz_file;7;7;HIGH_MAPPING
+8852;614;Murau;6D;6;1,0;1;plz_file;12;12;HIGH_MAPPING
+8853;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8854;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8861;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8862;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8863;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8864;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8900;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8903;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8904;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8911;612;Liezen;6D;6;1,0;1;plz_file;3;3;HIGH_MAPPING
+8912;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8913;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8920;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8921;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8922;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8923;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8924;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8931;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8932;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8933;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8934;612;Liezen;6D;6;0,5323;1;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8934;413;Steyr;4E;4;0,4677;0;iqvia_nanobrick_cut;0;0;MEDIUM_IQVIA_CUT
+8940;612;Liezen;6D;6;1,0;1;plz_file;18;18;HIGH_MAPPING
+8942;612;Liezen;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8943;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8950;612;Liezen;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8951;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8952;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8953;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8954;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8960;612;Liezen;6D;6;1,0;1;plz_file;6;6;HIGH_MAPPING
+8961;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8962;612;Liezen;6D;6;1,0;1;plz_file;8;8;HIGH_MAPPING
+8965;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8966;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8967;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8970;612;Liezen;6D;6;1,0;1;plz_file;24;24;HIGH_MAPPING
+8971;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8972;612;Liezen;6D;6;1,0;1;plz_file;6;6;HIGH_MAPPING
+8973;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8974;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8982;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8983;612;Liezen;6D;6;1,0;1;plz_file;1;1;HIGH_MAPPING
+8984;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+8990;612;Liezen;6D;6;1,0;1;plz_file;20;20;HIGH_MAPPING
+8992;612;Liezen;6D;6;1,0;1;plz_file;2;2;HIGH_MAPPING
+8993;612;Liezen;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+9020;201;Klagenfurt-Stadt;2B;2;1,0;1;plz_file;530;530;HIGH_MAPPING
+9061;201;Klagenfurt-Stadt;2B;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9062;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9063;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9064;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9065;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9071;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9072;201;Klagenfurt-Stadt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9073;201;Klagenfurt-Stadt;2B;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9074;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9081;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9082;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9100;207;Völkermarkt;2B;2;1,0;1;plz_file;8;8;HIGH_MAPPING
+9102;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9103;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9111;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9112;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9113;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9121;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9122;207;Völkermarkt;2B;2;1,0;1;plz_file;8;8;HIGH_MAPPING
+9123;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9125;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9130;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9131;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9132;207;Völkermarkt;2B;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9133;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9135;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9141;207;Völkermarkt;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9142;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9143;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9150;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9155;207;Völkermarkt;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9161;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9162;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9163;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9170;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9173;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9181;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9182;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9183;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9184;206;Villach;2A;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9201;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9210;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;20;20;HIGH_MAPPING
+9212;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9220;206;Villach;2A;2;1,0;1;plz_file;7;7;HIGH_MAPPING
+9231;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9232;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9241;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9300;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;63;63;HIGH_MAPPING
+9311;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9312;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9313;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9314;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9321;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9322;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9323;614;Murau;6D;6;1,0;1;plz_file;0;0;HIGH_MAPPING
+9330;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;18;18;HIGH_MAPPING
+9334;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9335;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9341;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9342;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9343;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9344;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9345;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9346;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9360;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;17;17;HIGH_MAPPING
+9361;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9362;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9363;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9371;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9372;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9373;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9374;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9375;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9376;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9400;208;Wolfsberg;2B;2;1,0;1;plz_file;80;80;HIGH_MAPPING
+9411;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9412;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9413;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9421;208;Wolfsberg;2B;2;1,0;1;plz_file;1;1;HIGH_MAPPING
+9422;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9423;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9431;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9433;208;Wolfsberg;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9441;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9451;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9461;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9462;208;Wolfsberg;2B;2;1,0;1;plz_file;5;5;HIGH_MAPPING
+9463;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9470;208;Wolfsberg;2B;2;1,0;1;plz_file;3;3;HIGH_MAPPING
+9472;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9473;208;Wolfsberg;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9500;206;Villach;2A;2;1,0;1;plz_file;220;220;HIGH_MAPPING
+9504;206;Villach;2A;2;1,0;1;plz_file;41;41;HIGH_MAPPING
+9520;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9521;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9523;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9524;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9530;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9531;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9535;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9536;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9541;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9542;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9543;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9544;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9545;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9546;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9551;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9552;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9554;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9555;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9556;204;Sankt Veit an der Glan;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9560;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;23;23;HIGH_MAPPING
+9562;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9563;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9564;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9565;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9570;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9571;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9572;203;Klagenfurt-Land/Feldkirchen;2B;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9580;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9581;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9582;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9583;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9584;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9585;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9586;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9587;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9601;206;Villach;2A;2;1,0;1;plz_file;4;4;HIGH_MAPPING
+9602;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9611;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9612;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9613;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9614;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9615;202;Hermagor;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9620;202;Hermagor;2A;2;1,0;1;plz_file;24;24;HIGH_MAPPING
+9622;202;Hermagor;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9623;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9624;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9631;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9632;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9633;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9634;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9635;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9640;202;Hermagor;2A;2;1,0;1;plz_file;25;25;HIGH_MAPPING
+9651;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9652;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9653;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9654;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9655;202;Hermagor;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9701;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9702;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9710;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9711;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9712;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9713;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9714;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9721;206;Villach;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9722;206;Villach;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9751;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9753;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9754;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9761;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9762;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9771;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9772;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9773;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9781;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9782;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9800;205;Spittal an der Drau;2A;2;1,0;1;plz_file;62;62;HIGH_MAPPING
+9805;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9811;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9812;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9813;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9814;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9815;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9816;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9821;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9822;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9831;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9832;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9833;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9841;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9842;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9843;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9844;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9851;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9852;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9853;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9854;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9861;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9862;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9863;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9871;205;Spittal an der Drau;2A;2;1,0;1;plz_file;5;5;HIGH_MAPPING
+9872;205;Spittal an der Drau;2A;2;1,0;1;plz_file;2;2;HIGH_MAPPING
+9873;205;Spittal an der Drau;2A;2;1,0;1;plz_file;0;0;HIGH_MAPPING
+9900;707;Lienz;7A;7;1,0;1;plz_file;90;90;HIGH_MAPPING
+9903;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9904;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9905;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9906;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9907;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9908;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9909;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9911;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9912;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9913;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9918;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9919;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9920;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9931;707;Lienz;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+9932;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9941;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9942;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9943;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9951;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9952;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9954;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9961;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9962;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9963;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9971;707;Lienz;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+9972;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9974;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9981;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9990;707;Lienz;7A;7;1,0;1;plz_file;4;4;HIGH_MAPPING
+9991;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING
+9992;707;Lienz;7A;7;1,0;1;plz_file;0;0;HIGH_MAPPING

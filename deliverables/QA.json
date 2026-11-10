@@ -1,0 +1,997 @@
+{
+ "params": {
+  "SPLIT_MIN_OTHER": 0.3,
+  "PRIMARY_MIN": 0.1,
+  "PART_MIN": 0.03
+ },
+ "phase1_reconcile": {
+  "plz_in_crosswalk": 2257,
+  "plz_with_geometry": 2274,
+  "crosswalk_plz_without_geometry": [
+   "1000",
+   "1097",
+   "2654",
+   "3109",
+   "4010",
+   "4021",
+   "4041",
+   "5010",
+   "5021",
+   "5033",
+   "5072",
+   "5732",
+   "6010",
+   "6026",
+   "6452",
+   "6807",
+   "6854",
+   "7001",
+   "8011",
+   "8021",
+   "8565",
+   "9010",
+   "9024",
+   "9501"
+  ],
+  "geometry_plz_without_brick_assigned_by_iqvia_geometry": [],
+  "geometry_plz_without_brick_left_out": [
+   "2360",
+   "2363",
+   "2370",
+   "4206",
+   "4290",
+   "4700",
+   "5073",
+   "5094",
+   "7247",
+   "7560",
+   "8012",
+   "8060",
+   "8064",
+   "8109",
+   "8512",
+   "8520",
+   "8601",
+   "8638",
+   "8681",
+   "8999",
+   "9250",
+   "9251",
+   "9253",
+   "9261",
+   "9262",
+   "9263",
+   "9408",
+   "9424",
+   "9430",
+   "9434",
+   "9444",
+   "9464",
+   "9476",
+   "9486",
+   "9488",
+   "9493",
+   "9497",
+   "9799",
+   "9922",
+   "9955",
+   "9970"
+  ],
+  "left_out_note": "derived (address-only) codes and OSM polygons with <50% overlap with IQVIA geometry are foreign (SI/CH/HU/...) or mis-tagged codes; no brick assigned",
+  "crosswalk_plz_without_geometry_by_source": {
+   "Veeva only (majority brick)": 4,
+   "PostalCodesbyKAM (col D)": 3,
+   "AT_MissingPostalCodesOnkoAT": 17
+  }
+ },
+ "split": {
+  "n_split_plz": 41,
+  "veeva_multi_brick_plz": 13,
+  "veeva_split_not_resolved_by_iqvia_geometry": [
+   "1190",
+   "3100",
+   "5020",
+   "7000"
+  ],
+  "iqvia_geometry_contradicts_plz_file_kept_whole": [
+   {
+    "plz": "2034",
+    "file_brick": "307",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "313",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "2192",
+    "file_brick": "315",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "313",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "2440",
+    "file_brick": "607",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "304",
+    "share": 0.551,
+    "veeva": {}
+   },
+   {
+    "plz": "2491",
+    "file_brick": "320",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "102",
+    "share": 0.84,
+    "veeva": {
+     "102": 4
+    }
+   },
+   {
+    "plz": "2823",
+    "file_brick": "320",
+    "file_brick_share_in_iqvia_geometry": 0.091,
+    "iqvia_brick": "315",
+    "share": 0.909,
+    "veeva": {
+     "315": 6
+    }
+   },
+   {
+    "plz": "3141",
+    "file_brick": "908",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "316",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "3231",
+    "file_brick": "311",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "316",
+    "share": 0.997,
+    "veeva": {}
+   },
+   {
+    "plz": "3474",
+    "file_brick": "307",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "318",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "3533",
+    "file_brick": "310",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "322",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "3573",
+    "file_brick": "310",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "308",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "3704",
+    "file_brick": "309",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "307",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "3742",
+    "file_brick": "307",
+    "file_brick_share_in_iqvia_geometry": 0.067,
+    "iqvia_brick": "308",
+    "share": 0.933,
+    "veeva": {}
+   },
+   {
+    "plz": "3811",
+    "file_brick": "319",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "322",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "3903",
+    "file_brick": "319",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "322",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "4392",
+    "file_brick": "409",
+    "file_brick_share_in_iqvia_geometry": 0.018,
+    "iqvia_brick": "312",
+    "share": 0.981,
+    "veeva": {}
+   },
+   {
+    "plz": "4533",
+    "file_brick": "413",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "408",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "4595",
+    "file_brick": "407",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "413",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "4613",
+    "file_brick": "403",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "416",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "4622",
+    "file_brick": "416",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "408",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "4721",
+    "file_brick": "406",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "412",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "4743",
+    "file_brick": "406",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "410",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "4854",
+    "file_brick": "415",
+    "file_brick_share_in_iqvia_geometry": 0.002,
+    "iqvia_brick": "503",
+    "share": 0.998,
+    "veeva": {}
+   },
+   {
+    "plz": "4933",
+    "file_brick": "410",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "402",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "4961",
+    "file_brick": "402",
+    "file_brick_share_in_iqvia_geometry": 0.015,
+    "iqvia_brick": "410",
+    "share": 0.985,
+    "veeva": {}
+   },
+   {
+    "plz": "5071",
+    "file_brick": "501",
+    "file_brick_share_in_iqvia_geometry": 0.008,
+    "iqvia_brick": "503",
+    "share": 0.991,
+    "veeva": {
+     "503": 12
+    }
+   },
+   {
+    "plz": "5166",
+    "file_brick": "503",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "402",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "5412",
+    "file_brick": "503",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "502",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "5523",
+    "file_brick": "504",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "503",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "5552",
+    "file_brick": "506",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "504",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "6181",
+    "file_brick": "702",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "703",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "6184",
+    "file_brick": "702",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "703",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "6346",
+    "file_brick": "704",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "705",
+    "share": 0.998,
+    "veeva": {}
+   },
+   {
+    "plz": "6347",
+    "file_brick": "704",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "705",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "6413",
+    "file_brick": "702",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "703",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "6492",
+    "file_brick": "706",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "702",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "6493",
+    "file_brick": "706",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "702",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "6767",
+    "file_brick": "802",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "803",
+    "share": 0.722,
+    "veeva": {}
+   },
+   {
+    "plz": "7421",
+    "file_brick": "108",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "315",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "8010",
+    "file_brick": "621",
+    "file_brick_share_in_iqvia_geometry": 0.045,
+    "iqvia_brick": "623",
+    "share": 0.435,
+    "veeva": {
+     "621": 45,
+     "623": 164,
+     "624": 140
+    }
+   },
+   {
+    "plz": "8181",
+    "file_brick": "606",
+    "file_brick_share_in_iqvia_geometry": 0.003,
+    "iqvia_brick": "617",
+    "share": 0.997,
+    "veeva": {}
+   },
+   {
+    "plz": "8313",
+    "file_brick": "605",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "604",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "8361",
+    "file_brick": "605",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "604",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "8671",
+    "file_brick": "617",
+    "file_brick_share_in_iqvia_geometry": 0.083,
+    "iqvia_brick": "613",
+    "share": 0.917,
+    "veeva": {}
+   },
+   {
+    "plz": "8782",
+    "file_brick": "611",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "612",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "9072",
+    "file_brick": "201",
+    "file_brick_share_in_iqvia_geometry": 0,
+    "iqvia_brick": "203",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "9536",
+    "file_brick": "203",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "206",
+    "share": 0.999,
+    "veeva": {}
+   },
+   {
+    "plz": "9572",
+    "file_brick": "203",
+    "file_brick_share_in_iqvia_geometry": 0.0,
+    "iqvia_brick": "204",
+    "share": 1.0,
+    "veeva": {}
+   },
+   {
+    "plz": "9701",
+    "file_brick": "206",
+    "file_brick_share_in_iqvia_geometry": 0.044,
+    "iqvia_brick": "205",
+    "share": 0.956,
+    "veeva": {}
+   },
+   {
+    "plz": "9782",
+    "file_brick": "205",
+    "file_brick_share_in_iqvia_geometry": 0.001,
+    "iqvia_brick": "707",
+    "share": 0.999,
+    "veeva": {}
+   }
+  ],
+  "by_rule": {
+   "iqvia": 33,
+   "veeva": 2,
+   "veeva+iqvia": 6
+  },
+  "minor_overlap_plz_not_split": 141
+ },
+ "nano": {
+  "table_nanobricks": 378,
+  "polygons_extracted": 374,
+  "missing_polygons": [
+   "20141",
+   "20142",
+   "70522",
+   "70921"
+  ],
+  "faces_with_two_labels": [
+   [
+    "20111",
+    "20142"
+   ]
+  ]
+ },
+ "nano_vs_plz_file": {
+  "plz_compared": 2233,
+  "plz_where_iqvia_geometry_majority_equals_file_brick": 2149
+ },
+ "layers": {
+  "postalcodes": 2274,
+  "plz_split_parts": 86,
+  "macrobricks": 114,
+  "standardregions": 34,
+  "bundeslaender": 9,
+  "nanobricks": 374
+ },
+ "macro_confidence": {
+  "HIGH_MAPPING": 65,
+  "MEDIUM_IQVIA_CUT": 49
+ },
+ "split_detail": {
+  "1300": {
+   "macros": {
+    "321": 0.5237,
+    "304": 0.4763
+   },
+   "by": "iqvia",
+   "file_brick": "321"
+  },
+  "2116": {
+   "macros": {
+    "313": 0.5409,
+    "309": 0.4591
+   },
+   "by": "iqvia",
+   "file_brick": "313"
+  },
+  "2231": {
+   "macros": {
+    "305": 0.553,
+    "313": 0.447
+   },
+   "by": "iqvia",
+   "file_brick": "305"
+  },
+  "2380": {
+   "macros": {
+    "314": 0.9534,
+    "303": 0.0466
+   },
+   "by": "veeva",
+   "file_brick": "314"
+  },
+  "2413": {
+   "macros": {
+    "304": 0.6165,
+    "106": 0.3835
+   },
+   "by": "iqvia",
+   "file_brick": "304"
+  },
+  "2460": {
+   "macros": {
+    "106": 0.6797,
+    "304": 0.3203
+   },
+   "by": "veeva+iqvia",
+   "file_brick": "304"
+  },
+  "2471": {
+   "macros": {
+    "304": 0.5528,
+    "106": 0.4472
+   },
+   "by": "iqvia",
+   "file_brick": "304"
+  },
+  "2473": {
+   "macros": {
+    "106": 0.566,
+    "304": 0.434
+   },
+   "by": "iqvia",
+   "file_brick": "304"
+  },
+  "2485": {
+   "macros": {
+    "102": 0.5386,
+    "303": 0.4614
+   },
+   "by": "iqvia",
+   "file_brick": "102"
+  },
+  "2572": {
+   "macros": {
+    "311": 0.7558,
+    "303": 0.2442
+   },
+   "by": "iqvia",
+   "file_brick": "303"
+  },
+  "2872": {
+   "macros": {
+    "607": 0.5274,
+    "315": 0.4726
+   },
+   "by": "iqvia",
+   "file_brick": "315"
+  },
+  "3033": {
+   "macros": {
+    "316": 0.8745,
+    "323": 0.0667,
+    "303": 0.0588
+   },
+   "by": "veeva",
+   "file_brick": "316"
+  },
+  "3104": {
+   "macros": {
+    "301": 0.6209,
+    "316": 0.3791
+   },
+   "by": "iqvia",
+   "file_brick": "301"
+  },
+  "3371": {
+   "macros": {
+    "317": 0.5714,
+    "312": 0.4286
+   },
+   "by": "iqvia",
+   "file_brick": "312"
+  },
+  "3713": {
+   "macros": {
+    "308": 0.7108,
+    "307": 0.2892
+   },
+   "by": "iqvia",
+   "file_brick": "307"
+  },
+  "3923": {
+   "macros": {
+    "322": 0.6932,
+    "306": 0.3068
+   },
+   "by": "iqvia",
+   "file_brick": "322"
+  },
+  "4040": {
+   "macros": {
+    "414": 0.5196,
+    "401": 0.4804
+   },
+   "by": "iqvia",
+   "file_brick": "401"
+  },
+  "4183": {
+   "macros": {
+    "414": 0.6005,
+    "411": 0.3995
+   },
+   "by": "iqvia",
+   "file_brick": "414"
+  },
+  "4732": {
+   "macros": {
+    "406": 0.7096,
+    "403": 0.2904
+   },
+   "by": "iqvia",
+   "file_brick": "403"
+  },
+  "4866": {
+   "macros": {
+    "415": 0.6335,
+    "503": 0.3665
+   },
+   "by": "iqvia",
+   "file_brick": "415"
+  },
+  "5023": {
+   "macros": {
+    "503": 0.6486,
+    "501": 0.3514
+   },
+   "by": "iqvia",
+   "file_brick": "503"
+  },
+  "5163": {
+   "macros": {
+    "503": 0.6813,
+    "402": 0.3187
+   },
+   "by": "iqvia",
+   "file_brick": "503"
+  },
+  "6182": {
+   "macros": {
+    "703": 0.6654,
+    "702": 0.3346
+   },
+   "by": "iqvia",
+   "file_brick": "702"
+  },
+  "6820": {
+   "macros": {
+    "804": 0.6922,
+    "802": 0.3078
+   },
+   "by": "iqvia",
+   "file_brick": "804"
+  },
+  "8020": {
+   "macros": {
+    "622": 0.6251,
+    "625": 0.3749
+   },
+   "by": "veeva+iqvia",
+   "file_brick": "622"
+  },
+  "8044": {
+   "macros": {
+    "623": 0.5068,
+    "606": 0.4932
+   },
+   "by": "iqvia",
+   "file_brick": "606"
+  },
+  "8045": {
+   "macros": {
+    "606": 0.647,
+    "623": 0.353
+   },
+   "by": "iqvia",
+   "file_brick": "623"
+  },
+  "8046": {
+   "macros": {
+    "606": 0.7663,
+    "623": 0.2337
+   },
+   "by": "veeva+iqvia",
+   "file_brick": "623"
+  },
+  "8047": {
+   "macros": {
+    "606": 0.6048,
+    "623": 0.3199,
+    "624": 0.0753
+   },
+   "by": "veeva+iqvia",
+   "file_brick": "623"
+  },
+  "8051": {
+   "macros": {
+    "622": 0.5261,
+    "606": 0.4739
+   },
+   "by": "iqvia",
+   "file_brick": "606"
+  },
+  "8052": {
+   "macros": {
+    "606": 0.5317,
+    "625": 0.2772,
+    "622": 0.1911
+   },
+   "by": "veeva+iqvia",
+   "file_brick": "625"
+  },
+  "8054": {
+   "macros": {
+    "606": 0.648,
+    "625": 0.352
+   },
+   "by": "veeva+iqvia",
+   "file_brick": "625"
+  },
+  "8081": {
+   "macros": {
+    "610": 0.5211,
+    "604": 0.4789
+   },
+   "by": "iqvia",
+   "file_brick": "604"
+  },
+  "8131": {
+   "macros": {
+    "602": 0.8128,
+    "606": 0.1872
+   },
+   "by": "iqvia",
+   "file_brick": "606"
+  },
+  "8153": {
+   "macros": {
+    "616": 0.6409,
+    "606": 0.3591
+   },
+   "by": "iqvia",
+   "file_brick": "616"
+  },
+  "8265": {
+   "macros": {
+    "605": 0.5586,
+    "607": 0.4414
+   },
+   "by": "iqvia",
+   "file_brick": "605"
+  },
+  "8312": {
+   "macros": {
+    "604": 0.5151,
+    "605": 0.4541,
+    "617": 0.0308
+   },
+   "by": "iqvia",
+   "file_brick": "605"
+  },
+  "8421": {
+   "macros": {
+    "610": 0.5583,
+    "604": 0.4417
+   },
+   "by": "iqvia",
+   "file_brick": "610"
+  },
+  "8455": {
+   "macros": {
+    "610": 0.6647,
+    "603": 0.3353
+   },
+   "by": "iqvia",
+   "file_brick": "610"
+  },
+  "8644": {
+   "macros": {
+    "602": 0.5148,
+    "613": 0.4852
+   },
+   "by": "iqvia",
+   "file_brick": "613"
+  },
+  "8934": {
+   "macros": {
+    "612": 0.5323,
+    "413": 0.4677
+   },
+   "by": "iqvia",
+   "file_brick": "612"
+  }
+ },
+ "topojson_check": {
+  "postalcodes": 2274,
+  "plz_parts": 86,
+  "macrobricks": 114,
+  "standardregions": 34,
+  "bundeslaender": 9,
+  "nanobricks": 374,
+  "file_mb": 10.5
+ },
+ "coverage": {
+  "plz_with_brick_union_km2": 83954.8,
+  "macro_union_km2": 83954.8,
+  "macro_minus_plz_km2": 0.0,
+  "plz_minus_macro_km2": 0.0
+ },
+ "macro_pairwise_overlap": {
+  "total_km2": 0.0,
+  "largest": [],
+  "note": "macrobrick layer is a partition: no overlaps"
+ },
+ "nanobrick_layer_vs_macro_layer": {
+  "nano_union_km2": 82900.6,
+  "macro_union_km2": 83954.8,
+  "intersection_km2": 82881.9,
+  "nano_outside_macro_km2": 18.7,
+  "macro_outside_nano_km2": 1073.0,
+  "note": "The two layers come from different sources (IQVIA PDF vs OSM PLZ) so their borders differ by design; macro borders follow PLZ, nanobrick borders follow IQVIA."
+ },
+ "macro_vs_nano_union_iou": {
+  "median": 0.973,
+  "min": 0.045,
+  "lowest5": [
+   [
+    "621",
+    0.045
+   ],
+   [
+    "908",
+    0.051
+   ],
+   [
+    "703",
+    0.544
+   ],
+   [
+    "801",
+    0.675
+   ],
+   [
+    "624",
+    0.682
+   ]
+  ],
+  "note": "IoU of the union of a macrobrick's nanobricks vs the PLZ-based macrobrick. Low values (621 Graz, 908) mean the PLZ file and IQVIA geometry assign that macrobrick to very different areas: check with Esteve/IQVIA."
+ },
+ "nanobrick_layer": {
+  "description": "Nanobrick polygons were NOT available as geometry. They were extracted from the vector PDF map \"IQVIA - Austria - 376 Nano Bricks\" (easymap export, Feb 2026): black boundary strokes were noded and polygonized, each face was labelled with the nanobrick ID printed inside it, and the three sub-maps (Austria, Wien inset, Graz inset) were georeferenced with the UTM33N (EPSG:32633) -> page affine transforms stored in the PDF itself. Result simplified topology-aware with epsilon ~15 m for web delivery.",
+  "overall_risk": "MEDIUM-HIGH (indicative geometry, not an official IQVIA boundary release)",
+  "risk_factors": [
+   {
+    "id": "N1",
+    "risk": "HIGH",
+    "what": "Source is a rendered PDF, not a GIS file. Boundaries are only as accurate as the PDF drawing and its line sampling.",
+    "mitigation": "Validated against OSM PLZ + crosswalk (see validation)."
+   },
+   {
+    "id": "N2",
+    "risk": "MEDIUM",
+    "what": "Georeferencing assumes UTM33N for the PDF coordinates (inferred, not stated in the file).",
+    "mitigation": "Validated: 366 of 374 polygons fall in PLZ areas whose macrobrick equals the polygon ID prefix; all 8 mismatches are in Graz (split PLZ)."
+   },
+   {
+    "id": "N3",
+    "risk": "MEDIUM",
+    "what": "4 of 378 table nanobricks have no polygon: 20141, 20142, 70522, 70921. The map title itself says 376 and holds 375 labels.",
+    "mitigation": "Listed in AT_Nanobrick_Keys.csv (HAS_POLYGON=0). 20142 shares the face of 20111 (two labels, one polygon) - treat 20111/20142 as one area. 70522 and 70921 and 20141 are absent from the map."
+   },
+   {
+    "id": "N4",
+    "risk": "MEDIUM",
+    "what": "Nanobrick borders follow municipalities/IQVIA geometry, macrobrick borders in this deliverable follow postal-code polygons. Both layers therefore do not nest exactly; there is NO official PLZ -> nanobrick table.",
+    "mitigation": "AT_Nano_PLZ_Overlap.csv gives area overlap shares between nanobricks and PLZ (>=1 % each side); use it as an indicator only."
+   },
+   {
+    "id": "N5",
+    "risk": "LOW",
+    "what": "Web simplification (~15 m) and inset maps (Wien, Graz) drawn at larger scale add small positional noise; tiny slivers possible along shared borders.",
+    "mitigation": "Topology-aware simplification keeps shared borders identical between neighbouring nanobricks."
+   },
+   {
+    "id": "N6",
+    "risk": "LOW",
+    "what": "PDF is IQVIA 2025 data (c) IQVIA; table/map versions may differ.",
+    "mitigation": "Internal use only."
+   }
+  ],
+  "validation": {
+   "polygons": 374,
+   "macro_agrees_with_plz_file": 366,
+   "macro_disagrees_all_in_graz": 8,
+   "plz_where_iqvia_geometry_majority_equals_plz_file_brick": {
+    "plz_compared": 2233,
+    "plz_where_iqvia_geometry_majority_equals_file_brick": 2149
+   }
+  }
+ },
+ "multi_brick_plz": {
+  "summary": "A PLZ can belong to more than one brick. Relation table AT_PLZ_Brick_Relation.csv holds one row per PLZ x macrobrick with AREA_SHARE; the map shows split PLZ (hatched) and their parts. Brick geometry itself is a partition (no overlaps).",
+  "rule": "Split if (a) Veeva shows >1 brick for the PLZ, or (b) IQVIA nanobrick geometry puts >=30% of the PLZ area in another macrobrick. Parts are cut along IQVIA nanobrick boundaries (>=3% area per part; leftover slivers go to the nearest part). PLZ whose file brick has <10% of its area in IQVIA geometry are NOT split: file and geometry contradict each other, the PLZ file wins and the PLZ is listed in iqvia_geometry_contradicts_plz_file_kept_whole.",
+  "best_seed_status": "Veeva address geocoding (OSM/Nominatim or BEV Adressregister) was not run: the workbook only has PLZ x brick address counts and no address list. IQVIA nanobrick boundaries were used instead as the best available seed. Optional follow-up: export Address_vod__c (street, number, PLZ, city, brick) for the split PLZ and validate/refine the cuts."
+ },
+ "confidence_values": {
+  "HIGH_MAPPING": "whole PLZ, brick from the PLZ file",
+  "MEDIUM_IQVIA_CUT": "contains PLZ parts cut along IQVIA nanobrick borders",
+  "LOW_INFER": "brick inferred (no PLZ file entry)"
+ },
+ "sources": [
+  "OSM Geofabrik Austria PBF 2026-11-08 (ODbL 1.0, (c) OpenStreetMap contributors): boundary=postal_code polygons, addr:postcode",
+  "Geofabrik GPKG (admin areas: municipality/district/state names)",
+  "IQVIA Nano/Macro/StReg/BL hierarchy 2025 (xlsx), IQVIA nanobrick map PDF 2025 (c) IQVIA",
+  "PostalCodesbyKAM + MissingPostalCodes (Esteve/KAM files), Veeva address counts 2026-11-10 (read-only snapshot)"
+ ],
+ "licence": "Internal tool only, no commercial use. IQVIA mappings/maps and Veeva counts are not for external redistribution. OSM-derived geometry: ODbL attribution/share-alike apply if ever published.",
+ "not_included": "KAM layers (explicitly out of scope)."
+}

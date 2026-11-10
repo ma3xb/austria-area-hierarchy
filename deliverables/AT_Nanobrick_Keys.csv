@@ -1,0 +1,379 @@
+﻿NANO_ID;NANO_NAME;MACRO_ID;STREG_ID;BL_ID;AREA_KM2;HAS_POLYGON
+10100;Eisenstadt Stadt;101;1A;1;42,87;1
+10211;Mattersburg;102;1A;1;67,76;1
+10212;Eisenstadt Land;102;1A;1;641,88;1
+10301;Heiligenkreuz im Lafnitztal;103;1A;1;69,98;1
+10302;Güssing;103;1A;1;668,35;1
+10610;Neusiedl am See;106;1A;1;608,74;1
+10620;Frauenkirchen;106;1A;1;429,32;1
+10700;Oberpullendorf;107;1A;1;701,65;1
+10810;Pinkafeld;108;1A;1;389,93;1
+10820;Oberwart;108;1A;1;343,02;1
+20111;Klagenfurt Süd;201;2B;2;7,91;1
+20112;Klagenfurt Nord;201;2B;2;0,34;1
+20120;Klagenfurt West;201;2B;2;34,73;1
+20131;Klagenfurt Flughafen;201;2B;2;27,69;1
+20132;Klagenfurt Land Nord;201;2B;2;45,52;1
+20141;Klagenfurt Ebenthal;201;2B;2;;0
+20142;Klagenfurt Hbf;201;2B;2;;0
+20200;Hermagor;202;2A;2;808,93;1
+20301;Klagenfurt Land;203;2B;2;659,29;1
+20302;Pörtschach am Wörthersee;203;2B;2;89,66;1
+20303;Feldkirchen in Kärnten;203;2B;2;558,85;1
+20304;Maria Wörth;203;2B;2;17,41;1
+20401;Althofen;204;2B;2;987,48;1
+20402;St. Veit an der Glan;204;2B;2;299,81;1
+20403;Klein St. Paul;204;2B;2;207,21;1
+20511;Seeboden am Millstätter See;205;2A;2;257,55;1
+20512;Spittal an der Drau;205;2A;2;86,59;1
+20513;Rangersdorf;205;2A;2;694,58;1
+20514;Irschen;205;2A;2;179,54;1
+20515;Gmünd in Kärnten;205;2A;2;1547,38;1
+20610;Villach Stadt;206;2A;2;0,95;1
+20620;Villach West;206;2A;2;77,28;1
+20630;Villach Ost;206;2A;2;56,73;1
+20651;Villach Land;206;2A;2;926,43;1
+20652;Velden;206;2A;2;83,06;1
+20701;Völkermarkt;207;2B;2;237,35;1
+20702;Eberndorf;207;2B;2;671,14;1
+20810;Wolfsberg;208;2B;2;266,21;1
+20820;St. Andrä;208;2B;2;708,37;1
+30110;St. Pölten Stadt;301;3E;3;1,32;1
+30120;St. Pölten Nord;301;3E;3;53,22;1
+30130;St. Pölten Süd;301;3E;3;50,75;1
+30210;Haag;302;3D;3;421,74;1
+30220;Amstetten;302;3D;3;207,65;1
+30221;Neuhofen an der Ybbs;302;3D;3;103,62;1
+30222;Ardagger;302;3D;3;124,9;1
+30230;Waidhofen an der Ybbs;302;3D;3;460,24;1
+30311;Bad Vöslau/Pottendorf;303;3C;3;112,75;1
+30313;Altenmarkt an der Triesting;303;3C;3;191,33;1
+30314;Baden;303;3C;3;6,93;1
+30316;Berndorf;303;3C;3;207,35;1
+30317;Breitenfurt bei Wien;303;3C;3;66,19;1
+30318;Traiskirchen;303;3C;3;36,11;1
+30319;Ebreichsdorf;303;3C;3;231,56;1
+30340;Kottingbrunn;303;3C;3;56,08;1
+30410;Himberg;304;3B;3;101,05;1
+30412;Fischamend;304;3B;3;243,47;1
+30413;Bruck an der Leitha;304;3B;3;292,72;1
+30511;Matzen-Raggendorf;305;3A;3;171,69;1
+30513;Zistersdorf;305;3A;3;376,29;1
+30520;Gänserndorf;305;3A;3;106,5;1
+30530;Groß-Enzersdorf / Deutsch-Wagram;305;3A;3;617,96;1
+30610;Schrems;306;3F;3;343,32;1
+30620;Weitra;306;3F;3;443,35;1
+30710;Retz;307;3A;3;385,73;1
+30720;Hollabrunn;307;3A;3;625,33;1
+30800;Horn;308;3F;3;784,05;1
+30910;Stockerau;309;3A;3;433,01;1
+30920;Korneuburg;309;3A;3;228,63;1
+31001;Krems an der Donau;310;3F;3;355,14;1
+31002;Mautern an der Donau;310;3F;3;404,26;1
+31003;Lichtenau im Waldviertel;310;3F;3;215,58;1
+31101;St. Aegyd am Neuwalde;311;3D;3;461,75;1
+31102;Lilienfeld;311;3D;3;470,97;1
+31210;Melk;312;3F;3;586,71;1
+31220;Neumarkt an der Ybbs;312;3F;3;428,11;1
+31311;Bernhardsthal;313;3A;3;147,12;1
+31312;Laa an der Thaya;313;3A;3;613,99;1
+31320;Mistelbach;313;3A;3;531,94;1
+31411;Mödling West;314;3B;3;12,21;1
+31412;Mödling Ost;314;3B;3;9,06;1
+31430;Perchtoldsdorf;314;3B;3;19,84;1
+31441;Vösendorf;314;3B;3;36,8;1
+31442;Guntramsdorf;314;3B;3;45,47;1
+31512;Neunkirchen;315;3C;3;4,33;1
+31513;Ternitz;315;3C;3;116,31;1
+31514;Reichenau an der Rax;315;3C;3;612,46;1
+31530;Grimmenstein;315;3C;3;417,82;1
+31611;Wilhelmsburg;316;3E;3;365,38;1
+31612;Herzogenburg;316;3E;3;317,73;1
+31622;Böheimkirchen;316;3E;3;440,08;1
+31701;Scheibbs;317;3D;3;735,5;1
+31702;Wieselburg;317;3D;3;288,79;1
+31810;Grafenwörth;318;3E;3;344,88;1
+31900;Waidhofen an der Thaya;319;3F;3;669,38;1
+32010;Wiener Neustadt Stadt;320;3C;3;4,67;1
+32020;Wiener Neustadt Land;320;3C;3;21,2;1
+32031;Wöllersdorf;320;3C;3;470,81;1
+32032;Theresienfeld;320;3C;3;296,37;1
+32033;Krumbach;320;3C;3;101,13;1
+32110;Schwechat;321;3B;3;64,82;1
+32200;Zwettl-Niederösterreich;322;3F;3;937,84;1
+32201;Rappottenstein;322;3F;3;315,68;1
+32202;Schweiggers;322;3F;3;146,1;1
+32300;Purkersdorf;323;3E;3;165,42;1
+32310;Klosterneuburg;323;3E;3;76,24;1
+32313;Tulln an der Donau;323;3E;3;313,25;1
+40111;Linz Ost;401;4A;4;2,57;1
+40112;Linz West;401;4A;4;2,96;1
+40121;Linz Hafen;401;4A;4;14,29;1
+40122;Linz Bahnhofsviertel;401;4A;4;3,11;1
+40130;Linz Hummelhof;401;4A;4;6,65;1
+40140;Linz Salzburger Straße;401;4A;4;8,68;1
+40151;Linz Ebelsberg;401;4A;4;17,0;1
+40152;Linz Franzosenhausweg;401;4A;4;10,48;1
+40160;Linz Nord;401;4A;4;7,29;1
+40170;Linz St. Magdalena;401;4A;4;18,93;1
+40210;Braunau am Inn;402;4D;4;424,19;1
+40221;Lengau;402;4D;4;183,22;1
+40222;Aspach;402;4D;4;98,85;1
+40223;Mattighofen;402;4D;4;334,49;1
+40300;Eferding;403;4C;4;259,64;1
+40401;Rainbach im Mühlkreis;404;4B;4;212,31;1
+40402;Königswiesen;404;4B;4;282,17;1
+40403;Gutau;404;4B;4;184,38;1
+40404;Freistadt;404;4B;4;315,57;1
+40511;Vorchdorf;405;4E;4;499,47;1
+40512;Gmunden;405;4E;4;174,15;1
+40521;Bad Ischl;405;4E;4;146,63;1
+40522;Bad Goisern am Hallstätter See;405;4E;4;446,64;1
+40610;Waizenkirchen;406;4C;4;272,62;1
+40620;Grieskirchen;406;4C;4;306,33;1
+40710;Nußbach;407;4E;4;320,94;1
+40720;Micheldorf in Oberösterreich;407;4E;4;918,5;1
+40811;Kirchberg-Thening;408;4A;4;101,48;1
+40812;Leonding;408;4A;4;14,45;1
+40820;Ansfelden;408;4A;4;272,79;1
+40821;Traun;408;4A;4;23,61;1
+40822;Sankt Florian / Enns;408;4A;4;47,75;1
+40901;Mauthausen;409;4B;4;116,4;1
+40902;Perg;409;4B;4;310,94;1
+40903;Sankt Georgen am Walde;409;4B;4;185,67;1
+41001;Ort im Innkreis;410;4D;4;50,02;1
+41002;Eberschwang;410;4D;4;95,32;1
+41003;Mettmach;410;4D;4;109,49;1
+41004;Ried im Innkreis;410;4D;4;329,82;1
+41101;Ulrichsberg;411;4B;4;143,14;1
+41102;Pfarrkirchen im Mühlkreis;411;4B;4;74,11;1
+41103;Putzleinsdorf;411;4B;4;80,72;1
+41104;St. Martin im Mühlkreis;411;4B;4;72,32;1
+41105;St. Peter am Wimberg;411;4B;4;103,08;1
+41106;Rohrbach in Oberösterreich;411;4B;4;344,68;1
+41201;Esternberg;412;4D;4;108,55;1
+41202;Kopfing im Innkreis;412;4D;4;112,93;1
+41203;Münzkirchen;412;4D;4;52,86;1
+41204;Taufkirchen an der Pram;412;4D;4;110,64;1
+41205;Schärding;412;4D;4;233,16;1
+41311;Steyr Süd;413;4E;4;4,73;1
+41312;Steyr West;413;4E;4;14,53;1
+41320;Steyr Ost;413;4E;4;7,3;1
+41331;Dietach;413;4E;4;118,05;1
+41332;Ternberg;413;4E;4;855,38;1
+41401;Urfahr-Umgebung West;414;4B;4;272,74;1
+41402;Urfahr-Umgebung Ost;414;4B;4;387,42;1
+41510;Frankenmarkt;415;4D;4;286,75;1
+41521;Vöcklabruck;415;4D;4;15,59;1
+41522;Attnang-Puchheim;415;4D;4;208,97;1
+41531;Seewalchen am Attersee;415;4D;4;114,62;1
+41532;Mondsee / Attersee;415;4D;4;459,59;1
+41611;Wels West;416;4C;4;7,93;1
+41612;Wels Ost;416;4C;4;8,54;1
+41620;Wels Nord;416;4C;4;29,43;1
+41630;Lambach;416;4C;4;216,89;1
+41640;Marchtrenk;416;4C;4;241,19;1
+50111;Salzburg Ost;501;5A;5;6,36;1
+50112;Salzburg Stadt;501;5A;5;2,13;1
+50121;Salzburg Flughafen;501;5A;5;7,58;1
+50122;Salzburg West;501;5A;5;1,88;1
+50130;Salzburg Messe;501;5A;5;8,39;1
+50141;Salzburg Linzer Bundesstraße;501;5A;5;14,71;1
+50142;Salzburg Nord;501;5A;5;3,31;1
+50151;Salzburg Süd;501;5A;5;17,78;1
+50152;Salzburg Alpenstraße;501;5A;5;3,53;1
+50200;Hallein;502;5A;5;131,71;1
+50311;Salzburg-Umgebung Süd;503;5A;5;850,27;1
+50312;Salzburg-Umgebung Nord;503;5A;5;416,08;1
+50313;Bürmoos;503;5A;5;76,75;1
+50314;Straßwalchen;503;5A;5;104,02;1
+50315;Mattsee/Wallersee;503;5A;5;95,64;1
+50410;Bischofshofen;504;5B;5;549,97;1
+50421;Sankt Johann im Pongau;504;5B;5;1381,07;1
+50422;Tamsweg;504;5B;5;845,54;1
+50611;Saalbach;506;5B;5;193,82;1
+50612;Saalfelden am Steinernen Meer;506;5B;5;799,77;1
+50620;Zell am See;506;5B;5;1650,16;1
+60210;Kapfenberg;602;6G;6;61,24;1
+60220;Bruck an der Mur;602;6G;6;1245,96;1
+60311;Deutschlandsberg;603;6F;6;170,06;1
+60312;Stainz;603;6F;6;285,1;1
+60320;Eibiswald;603;6F;6;409,62;1
+60410;Sankt Stefan im Rosental;604;6E;6;332,67;1
+60421;Sankt Peter am Ottersbach;604;6E;6;62,35;1
+60422;Bad Gleichenberg;604;6E;6;352,38;1
+60423;Feldbach;604;6E;6;307,1;1
+60500;Fürstenfeld;605;6E;6;264,37;1
+60611;Seiersberg;606;6C;6;9,98;1
+60612;Kalsdorf bei Graz;606;6C;6;246,06;1
+60613;Fernitz-Mellach;606;6C;6;44,52;1
+60630;Deutschfeistritz / Kumberg;606;6C;6;561,08;1
+60640;Hitzendorf;606;6C;6;225,39;1
+60701;Pöllau;607;6E;6;576,37;1
+60702;Hartberg;607;6E;6;387,65;1
+60801;Fohnsdorf;608;6D;6;726,81;1
+60802;Judenburg;608;6D;6;371,57;1
+60900;Knittelfeld;609;6D;6;578,51;1
+61011;Gamlitz;610;6E;6;246,44;1
+61012;Leibnitz;610;6E;6;146,86;1
+61022;Lebring;610;6E;6;289,79;1
+61111;Trofaiach;611;6D;6;714,92;1
+61112;Leoben;611;6D;6;12,72;1
+61113;Mautern in Steiermark;611;6D;6;325,22;1
+61211;Liezen/Schladming;612;6D;6;1631,85;1
+61213;Bad Mitterndorf;612;6D;6;468,18;1
+61231;Landl;612;6D;6;631,78;1
+61232;Trieben;612;6D;6;586,07;1
+61300;Mürzzuschlag;613;6G;6;849,05;1
+61401;Oberwölz;614;6D;6;563,3;1
+61402;Murau;614;6D;6;821,69;1
+61601;Köflach;616;6F;6;20,43;1
+61602;Voitsberg;616;6F;6;659,21;1
+61711;Strallegg;617;6G;6;230,57;1
+61712;Weiz;617;6G;6;522,31;1
+61721;Gleisdorf;617;6G;6;114,02;1
+61722;Sankt Ruprecht an der Raab;617;6G;6;231,68;1
+62101;Graz Stadt Süd;621;6A;6;0,29;1
+62102;Graz Stadt;621;6A;6;0,86;1
+62211;Graz Eggenberg/Wetzelsdorf;622;6A;6;7,81;1
+62212;Graz Raach;622;6A;6;10,85;1
+62220;Graz Hauptbahnhof;622;6A;6;3,71;1
+62310;Graz Andritz;623;6A;6;18,46;1
+62320;Graz Mariatrost/Ries;623;6A;6;24,13;1
+62330;Graz Geidorf;623;6A;6;5,5;1
+62410;Graz St. Jakomini;624;6B;6;4,05;1
+62420;Graz St. Leonhard;624;6B;6;1,83;1
+62431;Graz Liebenauer Gürtel;624;6B;6;7,97;1
+62432;Graz Liebenau/St. Peter;624;6B;6;13,32;1
+62511;Graz Puntigam/Straßgang;625;6B;6;16,06;1
+62512;Graz Wetzelsdorf;625;6B;6;7,67;1
+62521;Graz Don Bosco;625;6B;6;4,5;1
+62522;Graz Nikolaiplatz;625;6B;6;0,56;1
+70111;Innsbruck Domplatz;701;7B;7;0,64;1
+70112;Innsbruck Stadt;701;7B;7;2,12;1
+70120;Innsbruck Süd;701;7B;7;15,96;1
+70131;Innsbruck Flughafen;701;7B;7;6,06;1
+70132;Innsbruck Nord;701;7B;7;69,47;1
+70140;Innsbruck Grabenweg;701;7B;7;6,83;1
+70151;Innsbruck Ost;701;7B;7;2,14;1
+70152;Innsbruck Andechsstraße;701;7B;7;1,66;1
+70201;Imst;702;7B;7;380,07;1
+70202;Haiming;702;7B;7;1344,76;1
+70311;Telfs;703;7B;7;10,83;1
+70312;Zirl;703;7B;7;85,77;1
+70313;Völs;703;7B;7;22,75;1
+70314;Stubaital;703;7B;7;343,57;1
+70315;Hall in Tirol;703;7B;7;93,96;1
+70316;Wattens;703;7B;7;32,41;1
+70317;Innsbruck Land;703;7B;7;691,94;1
+70421;Kirchberg in Tirol;704;7A;7;417,16;1
+70422;Kitzbühel;704;7A;7;745,27;1
+70521;Wörgl;705;7A;7;572,37;1
+70522;Scheffau am Wilden Kaiser;705;7A;7;;0
+70523;Kramsach;705;7A;7;105,62;1
+70530;Kufstein;705;7A;7;289,73;1
+70601;Kappl;706;7B;7;380,88;1
+70602;Ried im Oberinntal;706;7B;7;424,68;1
+70603;Landeck;706;7B;7;790,11;1
+70710;Lienz Stadt;707;7A;7;15,93;1
+70720;Lienz Land;707;7A;7;2004,76;1
+70801;Weißenbach am Lech;708;7B;7;639,43;1
+70802;Reutte;708;7B;7;597,05;1
+70911;Buch in Tirol;709;7A;7;82,79;1
+70912;Schwaz;709;7A;7;1549,28;1
+70921;Mayrhofen;709;7A;7;;0
+70922;Fügen;709;7A;7;210,91;1
+80100;Bregenz;801;8A;8;28,44;1
+80210;Bludenz Stadt;802;8A;8;76,67;1
+80221;Dalaas;802;8A;8;246,61;1
+80222;Bludenz Land;802;8A;8;964,89;1
+80310;Hard-Höchst;803;8A;8;76,24;1
+80321;Egg;803;8A;8;569,73;1
+80322;Hörbranz;803;8A;8;197,43;1
+80410;Lustenau;804;8A;8;51,47;1
+80421;Dornbirn West;804;8A;8;88,36;1
+80422;Dornbirn Ost;804;8A;8;32,55;1
+80430;Götzis;804;8A;8;38,83;1
+80440;Rankweil;804;8A;8;129,47;1
+80451;Feldkirch West;804;8A;8;11,83;1
+80452;Feldkirch Ost;804;8A;8;96,49;1
+90110;Wien 1., Innere Stadt Schottenring;901;9A;9;1,2;1
+90120;Wien 1., Innere Stadt Am Hof;901;9A;9;0,24;1
+90131;Wien 1., Innere Stadt Graben;901;9A;9;0,1;1
+90132;Wien 1., Innere Stadt Bauernmarkt;901;9A;9;0,14;1
+90140;Wien 1., Innere Stadt Stubenring;901;9A;9;0,76;1
+90150;Wien 1., Innere Stadt Opernring;901;9A;9;0,47;1
+90210;Wien  2.,Leopoldstadt Praterstern;902;9B;9;3,34;1
+90220;Wien  2.,Leopoldstadt Taborstraße;902;9B;9;0,56;1
+90230;Wien  2.,Leopoldstadt Nestroyplatz;902;9B;9;0,42;1
+90240;Wien  2.,Leopoldstadt Prater;902;9B;9;14,91;1
+90310;Wien  3.,Landstraße St. Marx;903;9C;9;2,54;1
+90320;Wien  3.,Landstraßer Gürtel;903;9C;9;2,38;1
+90330;Wien  3.,Landstraße Rennweg;903;9C;9;1,43;1
+90340;Wien  3.,Landstraße Wien Mitte;903;9C;9;1,08;1
+90410;Wien  4.,Wieden West;904;9D;9;0,84;1
+90420;Wien  4.,Wieden Ost;904;9D;9;0,94;1
+90510;Wien  5.,Margareten Nord;905;9D;9;0,81;1
+90520;Wien  5.,Margareten Süd;905;9D;9;1,19;1
+90610;Wien  6.,Mariahilf West;906;9A;9;0,99;1
+90620;Wien  6.,Mariahilf Ost;906;9A;9;0,46;1
+90710;Wien  7.,Neubau West;907;9A;9;1,03;1
+90720;Wien  7.,Neubau Ost;907;9A;9;0,58;1
+90800;Wien  8.,Josefstadt;908;9A;9;1,09;1
+90910;Wien  9.,Alsergrund Nord;909;9A;9;1,09;1
+90920;Wien  9.,Alsergrund West;909;9A;9;0,9;1
+90931;Wien  9.,Alsergrund Roßauer Lände;909;9A;9;0,56;1
+90932;Wien  9.,Alsergrund Ost;909;9A;9;0,4;1
+91011;Wien 10.,Favoriten Triester Straße;910;9C;9;1,02;1
+91012;Wien 10.,Favoriten Raxstraße;910;9C;9;1,14;1
+91030;Wien 10.,Favoriten Laxenburger Straße;910;9C;9;2,09;1
+91040;Wien 10.,Favoriten Hauptbahnhof;910;9C;9;2,54;1
+91050;Wien 10.,Favoriten Inzersdorf;910;9C;9;6,58;1
+91060;Wien 10.,Favoriten Rothneusiedl;910;9C;9;18,54;1
+91110;Wien 11.,Simmering West;911;9B;9;4,74;1
+91120;Wien 11.,Simmering Ost;911;9B;9;18,42;1
+91210;Wien 12.,Meidling Ost;912;9D;9;1,88;1
+91221;Wien 12.,Meidling Edelsinnstraße;912;9D;9;1,34;1
+91222;Wien 12.,Meidling West;912;9D;9;1,09;1
+91230;Wien 12.,Meidling Hetzendorf;912;9D;9;3,9;1
+91301;Wien 13.,Hietzing Lainzer Tiergarten;913;9D;9;31,58;1
+91302;Wien 13.,Hietzing;913;9D;9;6,12;1
+91410;Wien 14.,Penzing Hütteldorf;914;9E;9;26,5;1
+91420;Wien 14.,Penzing Hütteldorfer Straße;914;9E;9;4,96;1
+91431;Wien 14.,Penzing Breitensee;914;9E;9;0,99;1
+91432;Wien 14.,Penzing;914;9E;9;1,34;1
+91511;Wien 15.,Rudolfsheim-Fünfhaus Johnstraße;915;9E;9;0,77;1
+91512;Wien 15.,Rudolfsheim-Fünfhaus Auf der Schmelz;915;9E;9;1,28;1
+91520;Wien 15.,Rudolfsheim-Fünfhaus Linke Wienzeile;915;9E;9;1,17;1
+91530;Wien 15.,Rudolfsheim-Fünfhaus Westbahnhof;915;9E;9;0,69;1
+91610;Wien 16.,Ottakring Flötzersteig;916;9E;9;5,89;1
+91620;Wien 16.,Ottakring Ottakringer Straße;916;9E;9;0,98;1
+91630;Wien 16.,Ottakring Thaliastraße;916;9E;9;0,52;1
+91640;Wien 16.,Ottakring Koppstraße;916;9E;9;1,29;1
+91710;Wien 17.,Hernals Hernalser Hauptstraße;917;9F;9;10,05;1
+91720;Wien 17.,Hernals;917;9F;9;1,3;1
+91810;Wien 18.,Währing West;918;9F;9;4,09;1
+91821;Wien 18.,Währing Währinger Gürtel;918;9F;9;1,24;1
+91822;Wien 18.,Währing Kreuzgasse;918;9F;9;1,03;1
+91910;Wien 19.,Döbling Krottenbachstraße;919;9F;9;1,92;1
+91920;Wien 19.,Döbling Nord;919;9F;9;15,01;1
+91930;Wien 19.,Döbling West;919;9F;9;7,97;1
+92011;Wien 20.,Brigittenau Brigittenauer Lände;920;9B;9;1,43;1
+92012;Wien 20.,Brigittenau Wallensteinstraße;920;9B;9;0,64;1
+92021;Wien 20.,Brigittenau Dresdner Straße;920;9B;9;2,04;1
+92022;Wien 20.,Brigittenau Traisengasse;920;9B;9;1,6;1
+92110;Wien 21.,Floridsdorf Nordbrücke;921;9G;9;1,65;1
+92120;Wien 21.,Floridsdorf West;921;9G;9;6,57;1
+92131;Wien 21.,Floridsdorf Brünner Straße;921;9G;9;4,74;1
+92132;Wien 21.,Floridsdorf Ost;921;9G;9;7,31;1
+92133;Wien 21.,Floridsdorf Nord;921;9G;9;12,51;1
+92141;Wien 21.,Floridsdorf Großfeldsiedlung;921;9G;9;4,66;1
+92142;Wien 21.,Floridsdorf Alte Donau;921;9G;9;7,02;1
+92211;Wien 22.,Donaustadt Rennbahnweg;922;9G;9;4,64;1
+92212;Wien 22.,Donaustadt Nord;922;9G;9;29,3;1
+92220;Wien 22.,Donaustadt Am Kaisermühlendamm;922;9G;9;13,18;1
+92230;Wien 22.,Donaustadt Lobau;922;9G;9;55,16;1
+92311;Wien 23.,Liesing Breitenfurter Straße;923;9H;9;3,37;1
+92312;Wien 23.,Liesing West;923;9H;9;11,1;1
+92321;Wien 23.,Liesing Siebenhirten;923;9H;9;5,6;1
+92322;Wien 23.,Liesing Knoten Inzersdorf;923;9H;9;11,93;1

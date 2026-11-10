@@ -1,0 +1,115 @@
+﻿MACRO_ID;MACRO_NAME;STREG_ID;STREG_NAME;BL_ID;BL_NAME;N_NANO;N_PLZ;N_SPLIT_PLZ;AREA_KM2;CONFIDENCE
+101;Eisenstadt-Stadt;1A;Burgenland;1;Burgenland;1;1;0;42,9;HIGH_MAPPING
+102;Eisenstadt-Land/Mattersburg;1A;Burgenland;1;Burgenland;2;39;1;714,0;MEDIUM_IQVIA_CUT
+103;Güssing/Jennersdorf;1A;Burgenland;1;Burgenland;2;30;0;734,3;HIGH_MAPPING
+106;Neusiedl am See;1A;Burgenland;1;Burgenland;2;28;4;1035,1;MEDIUM_IQVIA_CUT
+107;Oberpullendorf;1A;Burgenland;1;Burgenland;1;27;0;700,9;HIGH_MAPPING
+108;Oberwart;1A;Burgenland;1;Burgenland;2;28;0;737,0;HIGH_MAPPING
+201;Klagenfurt-Stadt;2B;Kärnten Ost;2;Kärnten;7;4;0;146,2;HIGH_MAPPING
+202;Hermagor;2A;Kärnten West;2;Kärnten;1;17;0;809,3;HIGH_MAPPING
+203;Klagenfurt-Land/Feldkirchen;2B;Kärnten Ost;2;Kärnten;4;33;0;1400,1;HIGH_MAPPING
+204;Sankt Veit an der Glan;2B;Kärnten Ost;2;Kärnten;3;27;0;1398,4;HIGH_MAPPING
+205;Spittal an der Drau;2A;Kärnten West;2;Kärnten;5;39;0;2779,4;HIGH_MAPPING
+206;Villach;2A;Kärnten West;2;Kärnten;5;41;0;1154,7;HIGH_MAPPING
+207;Völkermarkt;2B;Kärnten Ost;2;Kärnten;2;18;0;896,4;HIGH_MAPPING
+208;Wolfsberg;2B;Kärnten Ost;2;Kärnten;2;17;0;993,5;HIGH_MAPPING
+301;St.Pölten-Stadt;3E;St. Pölten & Umgebung;3;Niederösterreich;3;6;1;112,2;MEDIUM_IQVIA_CUT
+302;Amstetten;3D;südl. Mostviertel;3;Niederösterreich;5;36;0;1324,8;HIGH_MAPPING
+303;Baden;3C;Industrieviertel;3;Niederösterreich;8;43;4;886,3;MEDIUM_IQVIA_CUT
+304;Bruck an der Leitha;3B;NÖ Donauraum Ost;3;Niederösterreich;3;27;5;604,8;MEDIUM_IQVIA_CUT
+305;Gänserndorf;3A;Weinviertel;3;Niederösterreich;4;45;1;1283,6;MEDIUM_IQVIA_CUT
+306;Gmünd;3F;Waldviertel;3;Niederösterreich;2;22;1;791,8;MEDIUM_IQVIA_CUT
+307;Hollabrunn;3A;Weinviertel;3;Niederösterreich;2;37;1;1070,9;MEDIUM_IQVIA_CUT
+308;Horn;3F;Waldviertel;3;Niederösterreich;1;21;1;756,3;MEDIUM_IQVIA_CUT
+309;Korneuburg;3A;Weinviertel;3;Niederösterreich;2;22;1;678,2;MEDIUM_IQVIA_CUT
+310;Krems an der Donau;3F;Waldviertel;3;Niederösterreich;3;38;0;1021,4;HIGH_MAPPING
+311;Lilienfeld;3D;südl. Mostviertel;3;Niederösterreich;2;19;1;948,7;MEDIUM_IQVIA_CUT
+312;Melk;3F;Waldviertel;3;Niederösterreich;2;42;1;1002,8;MEDIUM_IQVIA_CUT
+313;Mistelbach;3A;Weinviertel;3;Niederösterreich;3;41;2;1218,2;MEDIUM_IQVIA_CUT
+314;Mödling;3B;NÖ Donauraum Ost;3;Niederösterreich;5;14;1;122,9;MEDIUM_IQVIA_CUT
+315;Neunkirchen;3C;Industrieviertel;3;Niederösterreich;4;31;1;1148,8;MEDIUM_IQVIA_CUT
+316;St.Pölten-Land;3E;St. Pölten & Umgebung;3;Niederösterreich;3;40;2;1081,8;MEDIUM_IQVIA_CUT
+317;Scheibbs;3D;südl. Mostviertel;3;Niederösterreich;2;19;1;950,2;MEDIUM_IQVIA_CUT
+318;Grafenwörth;3E;St. Pölten & Umgebung;3;Niederösterreich;1;12;0;338,2;HIGH_MAPPING
+319;Waidhofen an der Thaya;3F;Waldviertel;3;Niederösterreich;1;19;0;698,3;HIGH_MAPPING
+320;Wiener Neustadt;3C;Industrieviertel;3;Niederösterreich;5;36;0;1068,3;HIGH_MAPPING
+321;Schwechat;3B;NÖ Donauraum Ost;3;Niederösterreich;1;5;1;78,4;MEDIUM_IQVIA_CUT
+322;Zwettl;3F;Waldviertel;3;Niederösterreich;3;25;1;1321,5;MEDIUM_IQVIA_CUT
+323;Tulln-Land;3E;St. Pölten & Umgebung;3;Niederösterreich;3;27;1;545,0;MEDIUM_IQVIA_CUT
+401;Linz-Stadt;4A;Linz & Umgebung;4;Oberösterreich;10;3;1;97,8;MEDIUM_IQVIA_CUT
+402;Braunau am Inn;4D;OÖ West;4;Oberösterreich;4;44;1;1032,4;MEDIUM_IQVIA_CUT
+403;Eferding;4C;oberes Hausruckviertel;4;Oberösterreich;1;12;1;269,7;MEDIUM_IQVIA_CUT
+404;Freistadt;4B;Mühlviertel;4;Oberösterreich;4;26;0;984,3;HIGH_MAPPING
+405;Gmunden;4E;unteres Traunviertel;4;Oberösterreich;4;26;0;1443,8;HIGH_MAPPING
+406;Grieskirchen;4C;oberes Hausruckviertel;4;Oberösterreich;2;29;1;598,9;MEDIUM_IQVIA_CUT
+407;Kirchdorf an der Krems;4E;unteres Traunviertel;4;Oberösterreich;2;26;0;1264,6;HIGH_MAPPING
+408;Linz-Land;4A;Linz & Umgebung;4;Oberösterreich;5;21;0;429,6;HIGH_MAPPING
+409;Perg;4B;Mühlviertel;4;Oberösterreich;3;27;0;639,0;HIGH_MAPPING
+410;Ried im Innkreis;4D;OÖ West;4;Oberösterreich;4;30;0;578,0;HIGH_MAPPING
+411;Rohrbach;4B;Mühlviertel;4;Oberösterreich;6;33;1;818,7;MEDIUM_IQVIA_CUT
+412;Schärding;4D;OÖ West;4;Oberösterreich;5;29;0;609,8;HIGH_MAPPING
+413;Steyr;4E;unteres Traunviertel;4;Oberösterreich;5;24;1;1000,3;MEDIUM_IQVIA_CUT
+414;Urfahr-Umgebung;4B;Mühlviertel;4;Oberösterreich;2;24;2;657,4;MEDIUM_IQVIA_CUT
+415;Vöcklabruck;4D;OÖ West;4;Oberösterreich;5;42;1;1094,4;MEDIUM_IQVIA_CUT
+416;Wels;4C;oberes Hausruckviertel;4;Oberösterreich;5;21;0;506,1;HIGH_MAPPING
+501;Salzburg-Stadt;5A;Salzburg Nord;5;Salzburg;9;4;1;91,3;MEDIUM_IQVIA_CUT
+502;Hallein;5A;Salzburg Nord;5;Salzburg;1;6;0;108,8;HIGH_MAPPING
+503;Salzburg-Land;5A;Salzburg Nord;5;Salzburg;5;47;3;1503,8;MEDIUM_IQVIA_CUT
+504;St. Johann im Pongau/Tamsweg;5B;Salzburg Süd;5;Salzburg;3;44;0;2739,1;HIGH_MAPPING
+506;Zell am See;5B;Salzburg Süd;5;Salzburg;3;31;0;2703,7;HIGH_MAPPING
+602;Bruck-Mürzzuschlag West;6G;östliche Obersteiermark;6;Steiermark;2;20;2;1309,6;MEDIUM_IQVIA_CUT
+603;Deutschlandsberg;6F;süd-westliche Steiermark;6;Steiermark;3;19;1;870,5;MEDIUM_IQVIA_CUT
+604;Südoststeiermark;6E;süd-östliche Steiermark;6;Steiermark;4;32;3;994,8;MEDIUM_IQVIA_CUT
+605;Hartberg-Fürstenfeld Süd;6E;süd-östliche Steiermark;6;Steiermark;1;12;2;302,3;MEDIUM_IQVIA_CUT
+606;Graz-Umgebung;6C;Graz Umgebung;6;Steiermark;5;43;9;1142,2;MEDIUM_IQVIA_CUT
+607;Hartberg-Fürstenfeld Nord;6E;süd-östliche Steiermark;6;Steiermark;2;31;2;989,3;MEDIUM_IQVIA_CUT
+608;Murtal West;6D;westliche Steiermark;6;Steiermark;2;15;0;1104,9;HIGH_MAPPING
+609;Murtal Ost;6D;westliche Steiermark;6;Steiermark;1;8;0;570,0;HIGH_MAPPING
+610;Leibnitz;6E;süd-östliche Steiermark;6;Steiermark;3;28;3;701,0;MEDIUM_IQVIA_CUT
+611;Leoben;6D;westliche Steiermark;6;Steiermark;3;17;0;1089,1;HIGH_MAPPING
+612;Liezen;6D;westliche Steiermark;6;Steiermark;4;43;1;3332,3;MEDIUM_IQVIA_CUT
+613;Bruck-Mürzzuschlag Ost;6G;östliche Obersteiermark;6;Steiermark;1;19;1;821,3;MEDIUM_IQVIA_CUT
+614;Murau;6D;westliche Steiermark;6;Steiermark;2;21;0;1404,5;HIGH_MAPPING
+616;Voitsberg;6F;süd-westliche Steiermark;6;Steiermark;2;16;1;673,0;MEDIUM_IQVIA_CUT
+617;Weiz;6G;östliche Obersteiermark;6;Steiermark;4;26;1;1078,5;MEDIUM_IQVIA_CUT
+621;Graz-Stadt Zentrum;6A;Graz-Nord;6;Steiermark;2;1;0;25,6;HIGH_MAPPING
+622;Graz-Stadt Nord West;6A;Graz-Nord;6;Steiermark;3;3;3;22,2;MEDIUM_IQVIA_CUT
+623;Graz-Stadt Nord Ost;6A;Graz-Nord;6;Steiermark;3;6;4;37,1;MEDIUM_IQVIA_CUT
+624;Graz-Stadt Süd Ost;6B;Graz-Süd;6;Steiermark;4;3;1;18,6;MEDIUM_IQVIA_CUT
+625;Graz-Stadt Süd West;6B;Graz-Süd;6;Steiermark;4;5;3;30,7;MEDIUM_IQVIA_CUT
+701;Innsbruck-Stadt;7B;Tirol West;7;Tirol;8;2;0;107,5;HIGH_MAPPING
+702;Imst;7B;Tirol West;7;Tirol;2;30;1;1908,2;MEDIUM_IQVIA_CUT
+703;Innsbruck-Land;7B;Tirol West;7;Tirol;7;58;1;1792,5;MEDIUM_IQVIA_CUT
+704;Kitzbühel;7A;Tirol Ost (inkl. Osttirol);7;Tirol;2;22;0;1189,2;HIGH_MAPPING
+705;Kufstein;7A;Tirol Ost (inkl. Osttirol);7;Tirol;4;30;0;943,3;HIGH_MAPPING
+706;Landeck;7B;Tirol West;7;Tirol;3;32;0;1600,5;HIGH_MAPPING
+707;Lienz;7A;Tirol Ost (inkl. Osttirol);7;Tirol;2;32;0;1986,7;HIGH_MAPPING
+708;Reutte;7B;Tirol West;7;Tirol;2;29;0;1236,2;HIGH_MAPPING
+709;Schwaz;7A;Tirol Ost (inkl. Osttirol);7;Tirol;4;37;0;1842,8;HIGH_MAPPING
+801;Bregenz-Stadt;8A;Vorarlberg;8;Vorarlberg;1;1;0;41,6;HIGH_MAPPING
+802;Bludenz;8A;Vorarlberg;8;Vorarlberg;3;33;1;1314,7;MEDIUM_IQVIA_CUT
+803;Bregenz-Land;8A;Vorarlberg;8;Vorarlberg;3;35;0;819,5;HIGH_MAPPING
+804;Dornbirn/Feldkirch;8A;Vorarlberg;8;Vorarlberg;7;20;1;452,2;MEDIUM_IQVIA_CUT
+901;Wien 1 - Innere Stadt;9A;Wien Zentrum-West;9;Wien;6;1;0;2,9;HIGH_MAPPING
+902;Wien 2 - Leopoldstadt;9B;Wien Donau-West;9;Wien;4;1;0;19,2;HIGH_MAPPING
+903;Wien 3 - Landstrasse;9C;Wien Mitte-Süd;9;Wien;4;1;0;7,4;HIGH_MAPPING
+904;Wien 4 - Wieden;9D;Wien Mitte-West;9;Wien;2;1;0;1,8;HIGH_MAPPING
+905;Wien 5 - Margareten;9D;Wien Mitte-West;9;Wien;2;1;0;2,0;HIGH_MAPPING
+906;Wien 6 - Mariahilf;9A;Wien Zentrum-West;9;Wien;2;1;0;1,5;HIGH_MAPPING
+907;Wien 7 - Neubau;9A;Wien Zentrum-West;9;Wien;2;1;0;1,6;HIGH_MAPPING
+908;Wien 8 - Josefstadt;9A;Wien Zentrum-West;9;Wien;1;2;0;21,3;HIGH_MAPPING
+909;Wien 9 - Alsergrund;9A;Wien Zentrum-West;9;Wien;4;1;0;3,0;HIGH_MAPPING
+910;Wien 10 - Favoriten;9C;Wien Mitte-Süd;9;Wien;6;1;0;31,8;HIGH_MAPPING
+911;Wien 11 - Simmering;9B;Wien Donau-West;9;Wien;2;1;0;23,3;HIGH_MAPPING
+912;Wien 12 - Meidling;9D;Wien Mitte-West;9;Wien;4;1;0;8,1;HIGH_MAPPING
+913;Wien 13 - Hietzing;9D;Wien Mitte-West;9;Wien;2;1;0;37,7;HIGH_MAPPING
+914;Wien 14 - Penzing;9E;Wien Westbahn-Achse;9;Wien;4;1;0;34,0;HIGH_MAPPING
+915;Wien 15 - Rudolfsheim-Fünfhaus;9E;Wien Westbahn-Achse;9;Wien;4;1;0;3,9;HIGH_MAPPING
+916;Wien 16 - Ottakring;9E;Wien Westbahn-Achse;9;Wien;4;1;0;8,7;HIGH_MAPPING
+917;Wien 17 - Hernals;9F;Wien Nord;9;Wien;2;1;0;11,4;HIGH_MAPPING
+918;Wien 18 - Währing;9F;Wien Nord;9;Wien;3;1;0;6,3;HIGH_MAPPING
+919;Wien 19 - Döbling;9F;Wien Nord;9;Wien;3;1;0;24,9;HIGH_MAPPING
+920;Wien 20 - Brigittenau;9B;Wien Donau-West;9;Wien;4;1;0;5,7;HIGH_MAPPING
+921;Wien 21 - Floridsdorf;9G;Wien Donau-Ost;9;Wien;7;1;0;44,4;HIGH_MAPPING
+922;Wien 22 - Donaustadt;9G;Wien Donau-Ost;9;Wien;4;1;0;102,3;HIGH_MAPPING
+923;Wien 23 - Liesing;9H;Wien Liesing;9;Wien;4;1;0;32,1;HIGH_MAPPING

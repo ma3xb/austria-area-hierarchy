@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Austria Area Hierarchy</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="vendor/leaflet.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body class="locked">
+<nav id="tabs" class="glass">
+  <div class="logo" aria-hidden="true">
+    <svg viewBox="0 0 32 32"><defs><linearGradient id="lg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b6bcb"/><stop offset="1" stop-color="#0fa3a0"/></linearGradient></defs><rect width="32" height="32" rx="9" fill="url(#lg)"/><path d="M9 21l4-9 4 6 3-4 3 7" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="13" cy="12" r="1.8" fill="#fff"/></svg>
+  </div>
+  <strong>Austria area hierarchy</strong>
+  <button class="tab active" data-tab="map">Map</button>
+  <button class="tab" data-tab="table">Table</button>
+  <span id="count"></span>
+  <button type="button" id="signout" class="link-btn">Sign out</button>
+</nav>
+<main>
+<section id="view-map">
+<div id="map"></div>
+<div id="panel" class="glass">
+  <form id="search" autocomplete="off"><input id="q" placeholder="PLZ, place or brick name" aria-label="Search"><button class="btn-sm">Go</button></form>
+  <div id="hint"></div>
+  <div class="grp"><b>Level</b>
+    <label><input type="radio" name="level" value="postalcodes" checked> Postal codes</label>
+    <label><input type="radio" name="level" value="macrobricks"> Macrobricks (114)</label>
+    <label><input type="radio" name="level" value="standardregions"> Standardregions (34)</label>
+    <label><input type="radio" name="level" value="bundeslaender"> Bundesländer (9)</label>
+    <label><input type="radio" name="level" value="nanobricks"> Nanobricks (374)</label>
+  </div>
+  <div class="grp" id="srcgrp"><b>Postal code source</b>
+    <label><input type="checkbox" id="f-osm" checked> OSM postal codes</label>
+    <label><input type="checkbox" id="f-derived" checked> Derived from addresses</label>
+  </div>
+  <div class="grp"><label><input type="checkbox" id="f-split" checked> Show split PLZ (<i class="sw split"></i> dashed red, 2+ bricks)</label></div>
+  <div id="legend"></div>
+  <div id="info">Hover an area.</div>
+</div>
+</section>
+<section id="view-table" hidden>
+  <div class="tcard glass">
+    <div class="tbar">
+      <label>Dataset <select id="dataset"></select></label>
+      <button id="reset" class="btn-sm">Reset filters</button> <span id="tcount"></span>
+    </div>
+    <div class="twrap"><table id="tbl"><thead></thead><tbody></tbody></table></div>
+  </div>
+</section>
+</main>
+<div id="loading">Loading…</div>
+
+<div id="login" class="login" role="dialog" aria-modal="true" aria-labelledby="login-title">
+  <form id="login-form" class="login-card glass" autocomplete="on" novalidate>
+    <div class="logo" aria-hidden="true">
+      <svg viewBox="0 0 32 32"><defs><linearGradient id="lg-login" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b6bcb"/><stop offset="1" stop-color="#0fa3a0"/></linearGradient></defs><rect width="32" height="32" rx="9" fill="url(#lg-login)"/><path d="M9 21l4-9 4 6 3-4 3 7" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/><circle cx="13" cy="12" r="1.8" fill="#fff"/></svg>
+    </div>
+    <h1 id="login-title">Sign in</h1>
+    <p class="login-sub">Austria area hierarchy</p>
+    <label class="field"><span>User</span><input id="login-user" name="username" autocomplete="username" autocapitalize="off" spellcheck="false" required></label>
+    <label class="field"><span>Password</span><input id="login-pass" name="password" type="password" autocomplete="current-password" required></label>
+    <p class="login-err" id="login-err" role="alert" hidden>Wrong user or password.</p>
+    <button type="submit" class="btn-primary">Sign in</button>
+  </form>
+</div>
+
+<script src="vendor/leaflet.js"></script>
+<script src="js/auth.js"></script>
+</body>
+</html>
